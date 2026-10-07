@@ -62,7 +62,7 @@ HVAC installers, electricians, plumbers, landscapers, auto mechanics, and other 
 <!-- block: stats-bar | variant: 3-up -->
 ## Nationwide reach, with roots in the greater Indianapolis area
 
-Accord Advisors serves service-based businesses across the United States through a secure online platform, and is well-established in the greater Indianapolis area, with offices in Bloomington and Avon, Indiana. That local foundation means clients work with a firm that understands Indiana filing requirements and why cash flow for a landscaping or HVAC company looks very different in July than it does in February. Wherever your business operates, you get the same CPA-level guidance. See [why service business owners nationwide choose Accord Advisors](/why-accord-advisors).
+Accord Advisors serves service-based businesses across the United States through a secure online platform, and is well-established in the greater Indianapolis area, with offices in Bloomington and Avon, Indiana. That local foundation means clients work with a firm that understands Indiana filing requirements and why cash flow for a landscaping or HVAC company looks very different in July than it does in February. Wherever your business operates, you get the same CPA-level guidance.
 
 - Serving clients coast to coast, with offices in Bloomington and Avon, Indiana
 - 100% fixed-fee engagements, no hourly billing

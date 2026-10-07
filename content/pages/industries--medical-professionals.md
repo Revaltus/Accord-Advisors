@@ -91,7 +91,7 @@ Years spent working inside physician and medical practice finances, not general 
 ### CFO-level guidance
 icon: ChartLine
 
-Access to a team that thinks about practice performance the way a full-time CFO would, without the full-time cost. Read more about [why practices choose Accord Advisors](/why-rootadvisors).
+Access to a team that thinks about practice performance the way a full-time CFO would, without the full-time cost.
 
 <!-- block: faq-accordion -->
 ## Frequently Asked Questions About Accounting for Medical Professionals

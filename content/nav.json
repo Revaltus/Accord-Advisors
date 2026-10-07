@@ -1,7 +1,7 @@
 {
   "primary": [
     {
-      "label": "Services overview",
+      "label": "Services",
       "url": "/services",
       "children": [
         {
@@ -17,7 +17,7 @@
               "url": "/services/outsourced-accounting/business-tax"
             },
             {
-              "label": "Payroll administration for growing businesses",
+              "label": "Payroll",
               "url": "/services/outsourced-accounting/payroll-services"
             },
             {
@@ -31,41 +31,41 @@
           ]
         },
         {
-          "label": "Business foundation services for new practice owners",
+          "label": "Business foundation services",
           "url": "/services/business-foundation-services"
         },
         {
-          "label": "Personal income tax preparation and planning",
+          "label": "Personal income tax",
           "url": "/services/personal-income-tax"
         }
       ]
     },
     {
-      "label": "Industries we serve",
+      "label": "Industries",
       "url": "/industries",
       "children": [
         {
-          "label": "Accounting for optometry practices",
+          "label": "Optometry",
           "url": "/industries/optometry"
         },
         {
-          "label": "Accounting for dental practices",
+          "label": "Dental practices",
           "url": "/industries/dentists"
         },
         {
-          "label": "Accounting for medical professionals",
+          "label": "Medical professionals",
           "url": "/industries/medical-professionals"
         },
         {
-          "label": "Accounting for service based businesses",
+          "label": "Service-based businesses",
           "url": "/industries/service-businesses"
         },
         {
-          "label": "Fund accounting for churches",
+          "label": "Churches",
           "url": "/industries/churches"
         },
         {
-          "label": "Accounting for Professional Services Businesses",
+          "label": "Professional services businesses",
           "url": "/industries/professional-services",
           "children": [
             {
@@ -91,6 +91,10 @@
     {
       "label": "About",
       "url": "/about"
+    },
+    {
+      "label": "Getting started",
+      "url": "/resources/getting-started"
     },
     {
       "label": "Resources",
@@ -119,10 +123,6 @@
           ]
         }
       ]
-    },
-    {
-      "label": "Getting started",
-      "url": "/getting-started"
     },
     {
       "label": "Contact",
