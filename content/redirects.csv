@@ -25,8 +25,19 @@ old_url,new_url,status_code,reason
 /services/irs-notice-protection,/services/outsourced-accounting/irs-notice-protection,301,Nested via nav editor
 /insights-gallery,/resources/insights-gallery,301,Nested via nav editor
 /services/outsourced-accounting/outsourced-accounting,/services/outsourced-accounting/business-tax,301,Nested via nav editor
-/industries/advertising-agencies,/industries/professional-services/advertising-agencies,301,Relocated via AI
-/industries/law-firms,/industries/professional-services/law-firms,301,Relocated via AI
-/industries/financial-advisors,/industries/professional-services/financial-advisors,301,Relocated via AI
-/industries/consulting-firms,/industries/professional-services/consulting-firms,301,Relocated via AI
+/industries/advertising-agencies,/specialties/professional-services/advertising-agencies,301,Relocated via AI
+/industries/law-firms,/specialties/professional-services/law-firms,301,Relocated via AI
+/industries/financial-advisors,/specialties/professional-services/financial-advisors,301,Relocated via AI
+/industries/consulting-firms,/specialties/professional-services/consulting-firms,301,Relocated via AI
 /getting-started,/resources/getting-started,301,Nested via nav editor
+/industries,/specialties,301,Nested via nav editor
+/industries/optometry,/specialties/optometry,301,Nested via nav editor
+/industries/dentists,/specialties/dentists,301,Nested via nav editor
+/industries/medical-professionals,/specialties/medical-professionals,301,Nested via nav editor
+/industries/service-businesses,/specialties/service-businesses,301,Nested via nav editor
+/industries/churches,/specialties/churches,301,Nested via nav editor
+/industries/professional-services,/specialties/professional-services,301,Nested via nav editor
+/industries/professional-services/advertising-agencies,/specialties/professional-services/advertising-agencies,301,Nested via nav editor
+/industries/professional-services/law-firms,/specialties/professional-services/law-firms,301,Nested via nav editor
+/industries/professional-services/financial-advisors,/specialties/professional-services/financial-advisors,301,Nested via nav editor
+/industries/professional-services/consulting-firms,/specialties/professional-services/consulting-firms,301,Nested via nav editor
