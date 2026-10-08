@@ -1,11 +1,11 @@
 ---
 title: "Accounting for dental practices | Accord Advisors"
-url: "/industries/dentists"
+url: "/specialties/dentists"
 meta_title: "Dental Practice Accounting Bloomington, Indianapolis & Indiana | Accord Advisors"
 meta_description: "Accord Advisors serves dental practices across the United States, with offices in Bloomington and Avon, Indiana and deep roots in the greater Indianapolis area. Fixed-fee bookkeeping, payroll, tax planning, and financial dashboards built for dental offices."
 target_keyword: "dental practice accounting Bloomington IN"
 secondary_keywords: ["CPA for dentists Bloomington Indiana","dental office bookkeeping services Bloomington","dentist tax preparation Bloomington IN","accounting services for dental practices near me","dental practice management accountant Bloomington","outsourced accounting dentist Bloomington","dental business tax services Indiana","dentistry financial services Bloomington","dental practice CPA Bloomington","accounting for dental offices Bloomington IN","dentist bookkeeper Bloomington","dental business accounting services","tax planning for dentists Bloomington","dental practice financial advisor Bloomington IN","dental office accounting Bloomington"]
-canonical_url: "https://accordadvisors.com/industries/dentists"
+canonical_url: "https://accordadvisors.com/specialties/dentists"
 schema_markup: "Service"
 hero: "hero-split"
 hero_variant: "image-right"

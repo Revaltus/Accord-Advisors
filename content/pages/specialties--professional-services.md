@@ -1,11 +1,11 @@
 ---
 title: "Accounting for Attorneys, Agencies & Consultants | Accord Advisors"
-url: "/industries/professional-services"
+url: "/specialties/professional-services"
 meta_title: "Accounting for Attorneys, Advertising Agencies, Financial Advisors & Consultants | CPA Nationwide"
 meta_description: "Outsourced accounting for attorneys, advertising agencies, financial advisors, and consulting firms nationwide, including Bloomington, Avon, and the Indianapolis area of Indiana. Fixed monthly fees, real-time financials, and CFO-level advisory support."
 target_keyword: "accounting for professional services businesses"
 secondary_keywords: ["outsourced accounting for professional services firms nationwide","CPA for consulting firms Indianapolis","attorney accounting Bloomington Indiana","advertising agency CPA Avon Indiana","financial advisor accounting nationwide","law firm bookkeeping Indianapolis area"]
-canonical_url: "https://accordadvisors.com/industries/professional-services"
+canonical_url: "https://accordadvisors.com/specialties/professional-services"
 schema_markup: "Service"
 cta_text: "Schedule a consultation"
 cta_url: "/locations"

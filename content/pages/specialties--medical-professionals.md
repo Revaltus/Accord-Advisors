@@ -1,11 +1,11 @@
 ---
 title: "Accounting for Medical Professionals | Accord Advisors"
-url: "/industries/medical-professionals"
+url: "/specialties/medical-professionals"
 meta_title: "Accounting for Medical Professionals | CPA for Physicians Nationwide"
 meta_description: "Accord Advisors provides outsourced accounting, tax preparation, and CFO-level guidance for physicians and medical practice owners nationwide, including Bloomington, Avon, and Indianapolis, Indiana."
 target_keyword: "accounting for medical professionals"
 secondary_keywords: ["CPA for doctors nationwide","medical practice accounting services","physician tax preparation","healthcare professional accountant","outsourced accounting for medical practices","doctor bookkeeping services","medical professional tax planning","CPA for physicians Bloomington IN","medical practice CPA Indianapolis","physician accountant Avon Indiana","accounting for medical practice owners"]
-canonical_url: "https://accordadvisors.com/industries/medical-professionals"
+canonical_url: "https://accordadvisors.com/specialties/medical-professionals"
 schema_markup: "Service"
 hero: "hero-split"
 hero_variant: "image-right"
