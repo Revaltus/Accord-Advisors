@@ -1,11 +1,11 @@
 ---
 title: "Fund accounting for churches | Accord Advisors"
-url: "/industries/churches"
+url: "/specialties/churches"
 meta_title: "Fund Accounting for Churches | Bloomington, IN CPA"
 meta_description: "Fund accounting for churches nationwide, including Bloomington, Avon, and Indianapolis, IN. Accord Advisors offers outsourced bookkeeping, financial statements, and compliance support for ministries."
 target_keyword: "fund accounting for churches"
 secondary_keywords: ["church accounting services Bloomington","nonprofit fund accounting Indiana","church financial management Bloomington IN","religious organization accounting services","church bookkeeping Bloomington","nonprofit accounting Bloomington Indiana","church tax services Bloomington","fund accounting services Indiana","church financial statements Bloomington","religious nonprofit accounting","church accounting outsourcing nationwide","nonprofit accounting near Bloomington","church audit services Bloomington IN","faith-based organization accounting","church accounting CPA Bloomington","church accounting services nationwide","outsourced church bookkeeping","church CPA firm Indianapolis","fund accounting for churches Avon IN","church financial statements Indianapolis"]
-canonical_url: "https://accordadvisors.com/industries/churches"
+canonical_url: "https://accordadvisors.com/specialties/churches"
 schema_markup: "Service"
 hero: "hero-split"
 hero_variant: "image-right"
