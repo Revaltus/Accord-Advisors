@@ -41,48 +41,48 @@
       ]
     },
     {
-      "label": "Industries",
-      "url": "/industries",
+      "label": "Specialties",
+      "url": "/specialties",
       "children": [
         {
           "label": "Optometry",
-          "url": "/industries/optometry"
+          "url": "/specialties/optometry"
         },
         {
           "label": "Dental practices",
-          "url": "/industries/dentists"
+          "url": "/specialties/dentists"
         },
         {
           "label": "Medical professionals",
-          "url": "/industries/medical-professionals"
+          "url": "/specialties/medical-professionals"
         },
         {
           "label": "Service-based businesses",
-          "url": "/industries/service-businesses"
+          "url": "/specialties/service-businesses"
         },
         {
           "label": "Churches",
-          "url": "/industries/churches"
+          "url": "/specialties/churches"
         },
         {
           "label": "Professional services businesses",
-          "url": "/industries/professional-services",
+          "url": "/specialties/professional-services",
           "children": [
             {
               "label": "Accounting for Advertising Agencies",
-              "url": "/industries/professional-services/advertising-agencies"
+              "url": "/specialties/professional-services/advertising-agencies"
             },
             {
               "label": "Accounting for Law Firms",
-              "url": "/industries/professional-services/law-firms"
+              "url": "/specialties/professional-services/law-firms"
             },
             {
               "label": "Accounting for Financial Advisors",
-              "url": "/industries/professional-services/financial-advisors"
+              "url": "/specialties/professional-services/financial-advisors"
             },
             {
               "label": "Accounting for Consulting Firms",
-              "url": "/industries/professional-services/consulting-firms"
+              "url": "/specialties/professional-services/consulting-firms"
             }
           ]
         }
