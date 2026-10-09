@@ -6,29 +6,7 @@
       "children": [
         {
           "label": "Outsourced accounting services",
-          "url": "/services/outsourced-accounting",
-          "children": [
-            {
-              "label": "Bookkeeping",
-              "url": "/services/outsourced-accounting/bookkeeping"
-            },
-            {
-              "label": "Business Tax",
-              "url": "/services/outsourced-accounting/business-tax"
-            },
-            {
-              "label": "Payroll",
-              "url": "/services/outsourced-accounting/payroll-services"
-            },
-            {
-              "label": "Bill pay",
-              "url": "/services/outsourced-accounting/bill-pay"
-            },
-            {
-              "label": "IRS notice protection and response support",
-              "url": "/services/outsourced-accounting/irs-notice-protection"
-            }
-          ]
+          "url": "/services/outsourced-accounting"
         },
         {
           "label": "Business foundation services",
