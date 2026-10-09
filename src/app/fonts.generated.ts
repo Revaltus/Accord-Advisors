@@ -3,23 +3,23 @@
 // The Revaltus platform rewrites it when the site fonts change (Design Studio / Theme Studio).
 
 import type { CSSProperties } from 'react'
-import { Source_Serif_4, Source_Sans_3, Fraunces, Geist_Mono } from 'next/font/google'
+import { Plus_Jakarta_Sans, Public_Sans, Karla, Geist_Mono } from 'next/font/google'
 
-const font0 = Source_Serif_4({
+const font0 = Plus_Jakarta_Sans({
   subsets: ['latin'],
   weight: ['400', '500', '700'],
   variable: '--font-heading-loaded',
   display: 'swap',
 })
 
-const font1 = Source_Sans_3({
+const font1 = Public_Sans({
   subsets: ['latin'],
   weight: ['400', '500', '700'],
   variable: '--font-body-loaded',
   display: 'swap',
 })
 
-const font2 = Fraunces({
+const font2 = Karla({
   subsets: ['latin'],
   weight: ['400', '500'],
   style: ['normal', 'italic'],
