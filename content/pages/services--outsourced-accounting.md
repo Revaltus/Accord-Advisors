@@ -123,6 +123,29 @@ Bill pay works the same way every month, so you always know what's been paid and
 - We process payment: Once approved, payment goes out by whatever method your vendor requires: ACH, check, or card. The transaction is recorded directly in your books.
 - You get clear reporting: Every payment is tracked and reflected in your monthly financials, so you can see exactly what's been paid, what's pending, and where your cash is going.
 
+### IRS Notice Protection
+icon: ShieldCheck
+
+When a notice arrives, you get a CPA who already knows your filings responding on your behalf, not a stranger starting from scratch. What we handle for you when a notice arrives:
+
+- We read the notice line by line: Every IRS letter has a notice number, a deadline, and a specific ask buried in the language. We identify exactly what the IRS wants, why they're asking, and whether it's a simple clarification or something that needs a documented response.
+- We check it against your actual records: Before we respond to anything, we compare the notice to your filed returns, payroll records, or bookkeeping data. Sometimes the IRS has bad information. Sometimes a filing slipped through the cracks. Either way, we find the truth before we act on it.
+- We communicate directly with the IRS: With proper authorization, we contact the IRS on your behalf, by phone or in writing, so you're not the one sitting on hold or trying to decode agency language.
+- We draft and file the response: We prepare the documentation, write the response, and submit it by the deadline. You review it, you approve it, and it's handled. You never face the IRS alone on this.
+
+<!-- block: content-table -->
+## Outsourced Accounting at a Glance
+
+One fixed monthly fee covers all five services. Here is what each one does for your practice or business.
+
+| Service | What it covers | What you get |
+| --- | --- | --- |
+| Bookkeeping & Financial Reporting | Monthly reconciliations, accurate books, and financial statements | Reports that reflect what actually happened, not entries waiting to be cleaned up at tax time |
+| Business Tax | Tax planning and preparation built on the books we already manage | Filings that match your financials instead of being reconstructed under deadline pressure |
+| Payroll Services | Accurate, on-time payroll for staff and providers | Payroll data that flows straight into your financial reporting |
+| Bill Pay & Vendor Management | Vendor invoices reviewed, approved, and paid on schedule | A clear record of every payment tied to your monthly financials |
+| IRS Notice Protection | A CPA who already knows your filings responds when a notice arrives | Someone handling it on your behalf, not a stranger starting from scratch |
+
 <!-- block: cta-banner | variant: image-bg | image: consultation-handshake-office.jpg | alt: "Advisor and client shaking hands after a consultation in a bright office" | query: "business advisor client handshake office" -->
 ## Ready to hand your books to a team that already gets it
 
