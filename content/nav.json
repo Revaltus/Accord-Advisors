@@ -44,25 +44,7 @@
         },
         {
           "label": "Professional services businesses",
-          "url": "/specialties/professional-services",
-          "children": [
-            {
-              "label": "Accounting for Advertising Agencies",
-              "url": "/specialties/professional-services/advertising-agencies"
-            },
-            {
-              "label": "Accounting for Law Firms",
-              "url": "/specialties/professional-services/law-firms"
-            },
-            {
-              "label": "Accounting for Financial Advisors",
-              "url": "/specialties/professional-services/financial-advisors"
-            },
-            {
-              "label": "Accounting for Consulting Firms",
-              "url": "/specialties/professional-services/consulting-firms"
-            }
-          ]
+          "url": "/specialties/professional-services"
         }
       ]
     },
