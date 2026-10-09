@@ -119,7 +119,7 @@ Each task connects back to your general ledger and tax return automatically, so 
 ### Bill Pay & Vendor Management
 icon: Receipt
 
-Vendor invoices reviewed, approved, and paid on schedule, with a clear record of every payment tied back to your monthly financials. Bill pay works the same way every month, so you always know what's been paid and what's still waiting on you.
+Bill pay works the same way every month, so you always know what's been paid and what's still waiting on you. How our bill pay service works:
 
 - Invoices come to us: Vendors send bills directly to Accord Advisors or you forward what lands in your inbox. We log every invoice into our secure online platform the day it arrives, so nothing sits in a drawer waiting to be entered.
 - We review and code each bill: Every invoice gets checked for accuracy, matched to the right expense category, and flagged if something looks off, like a price increase or a duplicate charge, before it ever reaches your approval queue.
