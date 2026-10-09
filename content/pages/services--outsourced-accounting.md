@@ -130,9 +130,15 @@ Bill pay works the same way every month, so you always know what's been paid and
 ### IRS Notice Protection
 icon: ShieldCheck
 
-When a notice arrives, you get a CPA who already knows your filings responding on your behalf, not a stranger starting from scratch. [Learn about IRS notice protection](/services/outsourced-accounting/irs-notice-protection)
+When a notice arrives, you get a CPA who already knows your filings responding on your behalf, not a stranger starting from scratch. What we handle for you when a notice arrives:
 
-If you're ready to stop patching together bookkeepers, payroll software, and a part-time tax preparer, [schedule a consultation](/locations) and we'll build a fixed monthly plan around your practice or business.
+We read the notice line by line: Every IRS letter has a notice number, a deadline, and a specific ask buried in the language. We identify exactly what the IRS wants, why they're asking, and whether it's a simple clarification or something that needs a documented response.
+
+We check it against your actual records: Before we respond to anything, we compare the notice to your filed returns, payroll records, or bookkeeping data. Sometimes the IRS has bad information. Sometimes a filing slipped through the cracks. Either way, we find the truth before we act on it.
+
+We communicate directly with the IRS: With proper authorization, we contact the IRS on your behalf, by phone or in writing, so you're not the one sitting on hold or trying to decode agency language.
+
+We draft and file the response: We prepare the documentation, write the response, and submit it by the deadline. You review it, you approve it, and it's handled. You never face the IRS alone on this.
 
 <!-- block: content-table -->
 ## Outsourced Accounting at a Glance
