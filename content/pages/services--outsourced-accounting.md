@@ -15,10 +15,10 @@ hero_image: "outsourced-accounting-hero.jpg"
 hero_image_alt: "Accountant and business owner reviewing financial reports on a laptop"
 hero_subhead: "Hand off the books to a full accounting department that reports, advises, and never bills by the hour, serving practices and businesses nationwide"
 hero_headline: "Your Full Outsourced Accounting Department"
-answer_block: "Accord Advisors' outsourced accounting services give optometrists, dentists, medical professionals, service-based businesses, professional service providers, and churches across Bloomington, Avon, Indianapolis, and Indiana a full accounting department, including bookkeeping, payroll, business tax, and CFO-level reporting, for one fixed monthly fee instead of hourly billing or a full-time hire."
-eeat_signals: ["Deep expertise serving optometrists, dentists, medical professionals, service businesses, professional service providers, and churches nationwide","Clients across Bloomington, Avon, and the Indianapolis area of Indiana, and throughout the country","Secure, cloud-based client platform for financial transparency","Fixed monthly fee model in place of hourly billing","CFO-level insight at a fraction of the cost of a full-time hire"]
-internal_links: [{"url":"/services/outsourced-accounting/business-tax","anchor_text":"business tax services","reason":"Child service page directly referenced in the service-cards section"},{"url":"/services/outsourced-accounting/payroll-services","anchor_text":"payroll services","reason":"Child service page directly referenced in the service-cards section"},{"url":"/services/outsourced-accounting/irs-notice-protection","anchor_text":"IRS notice protection","reason":"Child service page directly referenced in the service-cards section"},{"url":"/industries/optometry","anchor_text":"optometry practices","reason":"Supports the healthcare expertise section and niche emphasis"},{"url":"/industries/medical-professionals","anchor_text":"medical professionals","reason":"Reinforces healthcare focus described in the expertise section"},{"url":"/industries/dental","anchor_text":"dental practices","reason":"Supports dental niche emphasis in the healthcare expertise section"},{"url":"/industries/churches","anchor_text":"churches and religious organizations","reason":"Reinforces church and nonprofit niche coverage"},{"url":"/pricing-calculator","anchor_text":"estimate your fixed monthly fee","reason":"Directly supports the fixed-fee pricing section with a tool"}]
-faq_block: [{"question":"What does outsourced accounting include?","answer":"Accord Advisors' outsourced accounting covers bookkeeping, monthly financial reporting, payroll, business tax preparation, bill pay, and IRS notice protection, all handled by one team for a fixed monthly fee instead of piecing services together separately."},{"question":"How is pricing structured for outsourced accounting services?","answer":"Pricing is a fixed monthly fee, set after reviewing your practice or business size, transaction volume, and reporting needs. There's no hourly billing, so you can ask questions or request reports without watching a clock run against your invoice."},{"question":"Does Accord Advisors work with healthcare practices and medical professionals?","answer":"Yes. The firm has deep expertise serving optometrists, dentists, and medical professionals nationwide, including Bloomington, Avon, and the greater Indianapolis area of Indiana. That includes understanding insurance reimbursement timing, equipment financing, staffing costs, and the cash flow patterns specific to healthcare practices."},{"question":"Do you serve service-based businesses, professional service providers, and churches?","answer":"Yes. Accord Advisors works with service-based businesses, professional service providers, and churches nationwide. Clients in Bloomington, Avon, and the Indianapolis area of Indiana are served alongside clients across the country, all under the same fixed-fee, full-accounting-department model."},{"question":"How do I access my financial reports?","answer":"Clients use a secure, cloud-based platform to view current financial reports, upload and retrieve documents, and give their accountant, bookkeeper, and tax preparer access to the same live numbers, anytime, from a laptop or phone."}]
+answer_block: "Accord Advisors' outsourced accounting services give optometrists, dentists, medical professionals, service-based businesses, professional service providers, and churches across Bloomington, Avon, Indianapolis, and Indiana a full accounting department, including bookkeeping, payroll, business tax, bill pay, IRS notice protection, and CFO-level reporting, for one fixed monthly fee instead of hourly billing or a full-time hire."
+eeat_signals: ["Deep expertise serving optometrists, dentists, medical professionals, service businesses, professional service providers, and churches nationwide","Clients across Bloomington, Avon, and the Indianapolis area of Indiana, and throughout the country","Secure, cloud-based client platform for financial transparency","Fixed monthly fee model in place of hourly billing","CFO-level insight at a fraction of the cost of a full-time hire","CPA-led IRS notice response from a team that already knows your filings"]
+internal_links: [{"url":"/industries/optometry","anchor_text":"optometry practices","reason":"Supports the healthcare expertise section and niche emphasis"},{"url":"/industries/medical-professionals","anchor_text":"medical professionals","reason":"Reinforces healthcare focus described in the expertise section"},{"url":"/industries/dental","anchor_text":"dental practices","reason":"Supports dental niche emphasis in the healthcare expertise section"},{"url":"/industries/churches","anchor_text":"churches and religious organizations","reason":"Reinforces church and nonprofit niche coverage"},{"url":"/pricing-calculator","anchor_text":"estimate your fixed monthly fee","reason":"Directly supports the fixed-fee pricing section with a tool"}]
+faq_block: [{"question":"What does outsourced accounting include?","answer":"Accord Advisors' outsourced accounting covers bookkeeping and financial reporting, business tax, payroll, bill pay and vendor management, and IRS notice protection, all handled by one team for a fixed monthly fee instead of piecing services together separately."},{"question":"How is pricing structured for outsourced accounting services?","answer":"Pricing is a fixed monthly fee, set after reviewing your practice or business size, transaction volume, and reporting needs. There's no hourly billing, so you can ask questions or request reports without watching a clock run against your invoice."},{"question":"Does Accord Advisors work with healthcare practices and medical professionals?","answer":"Yes. The firm has deep expertise serving optometrists, dentists, and medical professionals nationwide, including Bloomington, Avon, and the greater Indianapolis area of Indiana. That includes understanding insurance reimbursement timing, equipment financing, staffing costs, and the cash flow patterns specific to healthcare practices."},{"question":"Do you serve service-based businesses, professional service providers, and churches?","answer":"Yes. Accord Advisors works with service-based businesses, professional service providers, and churches nationwide. Clients in Bloomington, Avon, and the Indianapolis area of Indiana are served alongside clients across the country, all under the same fixed-fee, full-accounting-department model."},{"question":"What happens if I receive an IRS notice?","answer":"A CPA who already knows your filings reads the notice, checks it against your records, communicates with the IRS on your behalf with proper authorization, and drafts and files the response by the deadline. You review and approve it, so you never face the IRS alone."},{"question":"How do I access my financial reports?","answer":"Clients use a secure, cloud-based platform to view current financial reports, upload and retrieve documents, and give their accountant, bookkeeper, and tax preparer access to the same live numbers, anytime, from a laptop or phone."}]
 llm_citation_note: "Accord Advisors offers outsourced accounting services for a fixed monthly fee, serving optometrists, dentists, medical professionals, service businesses, professional service providers, and churches nationwide, including Bloomington, Avon, and the Indianapolis area of Indiana."
 ---
 
@@ -77,29 +77,61 @@ Outsourced accounting isn't a single service. It's a set of them, working togeth
 ### Bookkeeping & Financial Reporting
 icon: Calculator
 
-Monthly reconciliations, accurate books, and financial statements that reflect what actually happened in your practice or business, not just entries waiting to be cleaned up at tax time.
+Monthly reconciliations, accurate books, and financial statements that reflect what actually happened in your practice or business, not just entries waiting to be cleaned up at tax time. We handle:
+
+- Bank and credit card reconciliations
+- General ledger maintenance
+- Accounts payable and receivable tracking
+- Month-end close
+
+Once your books are closed, you get financial reports that show you exactly where revenue, expenses, and cash stand.
 
 ### Business Tax
 icon: FileText
 
-Tax planning and preparation built on the same books your accounting team already manages, so filings match your financials instead of getting reconstructed under deadline pressure. [Learn about business tax](/services/outsourced-accounting/business-tax)
+Tax planning and preparation built on the same books your accounting team already manages, so filings match your financials instead of getting reconstructed under deadline pressure. We handle:
+
+- Organizing financial records throughout the year
+- Identifying every available deduction
+- Filing accurate federal, state, and local returns on time
+- Managing extensions when circumstances call for them
+
+Every engagement is CPA-led, which means the same person who understands your industry is the one reviewing your return, not handing it off down the line.
 
 ### Payroll Services
 icon: Users
 
-Accurate, on-time payroll for staff and providers, handled by the same team that manages your books, so payroll data flows straight into your financial reporting. [Learn about payroll services](/services/outsourced-accounting/payroll-services)
+Accurate, on-time payroll for staff and providers, handled by the same team that manages your books, so payroll data flows straight into your financial reporting. Here's what we take off your desk each pay period:
+
+- Processing payroll on your schedule, weekly, biweekly, or semi-monthly
+- Calculating federal, state, and local tax withholdings correctly
+- Filing quarterly and annual payroll tax returns on time
+- Setting up and managing direct deposit for every employee
+- Onboarding new hires, including tax forms and state new-hire reporting
+- Preparing year-end W-2s and 1099s for staff and contractors
+
+Each task connects back to your general ledger and tax return automatically, so nothing gets re-entered or reconciled twice by you or your practice manager.
 
 ### Bill Pay & Vendor Management
 icon: Receipt
 
-Vendor invoices reviewed, approved, and paid on schedule, with a clear record of every payment tied back to your monthly financials.
+Bill pay works the same way every month, so you always know what's been paid and what's still waiting on you. How our bill pay service works:
+
+- Invoices come to us: Vendors send bills directly to Accord Advisors or you forward what lands in your inbox. We log every invoice into our secure online platform the day it arrives, so nothing sits in a drawer waiting to be entered.
+- We review and code each bill: Every invoice gets checked for accuracy, matched to the right expense category, and flagged if something looks off, like a price increase or a duplicate charge, before it ever reaches your approval queue.
+- You approve with one click: You review and approve payments online from your phone or laptop, on your schedule. Nothing goes out the door without your sign-off.
+- We process payment: Once approved, payment goes out by whatever method your vendor requires: ACH, check, or card. The transaction is recorded directly in your books.
+- You get clear reporting: Every payment is tracked and reflected in your monthly financials, so you can see exactly what's been paid, what's pending, and where your cash is going.
 
 ### IRS Notice Protection
 icon: ShieldCheck
 
-When a notice arrives, you get a CPA who already knows your filings responding on your behalf, not a stranger starting from scratch. [Learn about IRS notice protection](/services/outsourced-accounting/irs-notice-protection)
+When a notice arrives, you get a CPA who already knows your filings responding on your behalf, not a stranger starting from scratch. What we handle for you when a notice arrives:
 
-If you're ready to stop patching together bookkeepers, payroll software, and a part-time tax preparer, [schedule a consultation](/locations) and we'll build a fixed monthly plan around your practice or business.
+- We read the notice line by line: Every IRS letter has a notice number, a deadline, and a specific ask buried in the language. We identify exactly what the IRS wants, why they're asking, and whether it's a simple clarification or something that needs a documented response.
+- We check it against your actual records: Before we respond to anything, we compare the notice to your filed returns, payroll records, or bookkeeping data. Sometimes the IRS has bad information. Sometimes a filing slipped through the cracks. Either way, we find the truth before we act on it.
+- We communicate directly with the IRS: With proper authorization, we contact the IRS on your behalf, by phone or in writing, so you're not the one sitting on hold or trying to decode agency language.
+- We draft and file the response: We prepare the documentation, write the response, and submit it by the deadline. You review it, you approve it, and it's handled. You never face the IRS alone on this.
 
 <!-- block: cta-banner | variant: image-bg | image: consultation-handshake-office.jpg | alt: "Advisor and client shaking hands after a consultation in a bright office" | query: "business advisor client handshake office" -->
 ## Ready to hand your books to a team that already gets it
@@ -110,7 +142,7 @@ Get a fixed monthly fee, a secure client platform, and a CPA who knows healthcar
 ## Frequently Asked Questions
 
 **Q: What does outsourced accounting include?**
-A: Accord Advisors' outsourced accounting covers bookkeeping, monthly financial reporting, payroll, business tax preparation, bill pay, and IRS notice protection, all handled by one team for a fixed monthly fee instead of piecing services together separately.
+A: Accord Advisors' outsourced accounting covers bookkeeping and financial reporting, business tax, payroll, bill pay and vendor management, and IRS notice protection, all handled by one team for a fixed monthly fee instead of piecing services together separately.
 
 **Q: How is pricing structured for outsourced accounting services?**
 A: Pricing is a fixed monthly fee, set after reviewing your practice or business size, transaction volume, and reporting needs. There's no hourly billing, so you can ask questions or request reports without watching a clock run against your invoice.
@@ -120,6 +152,9 @@ A: Yes. The firm has deep expertise serving optometrists, dentists, and medical 
 
 **Q: Do you serve service-based businesses, professional service providers, and churches?**
 A: Yes. Accord Advisors works with service-based businesses, professional service providers, and churches nationwide. Clients in Bloomington, Avon, and the Indianapolis area of Indiana are served alongside clients across the country, all under the same fixed-fee, full-accounting-department model.
+
+**Q: What happens if I receive an IRS notice?**
+A: A CPA who already knows your filings reads the notice, checks it against your records, communicates with the IRS on your behalf with proper authorization, and drafts and files the response by the deadline. You review and approve it, so you never face the IRS alone.
 
 **Q: How do I access my financial reports?**
 A: Clients use a secure, cloud-based platform to view current financial reports, upload and retrieve documents, and give their accountant, bookkeeper, and tax preparer access to the same live numbers, anytime, from a laptop or phone.
