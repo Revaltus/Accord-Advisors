@@ -103,7 +103,18 @@ Every engagement is CPA-led, which means the same person who understands your in
 ### Payroll Services
 icon: Users
 
-Accurate, on-time payroll for staff and providers, handled by the same team that manages your books, so payroll data flows straight into your financial reporting. [Learn about payroll services](/services/outsourced-accounting/payroll-services)
+Accurate, on-time payroll for staff and providers, handled by the same team that manages your books, so payroll data flows straight into your financial reporting. Here's what we take off your desk each pay period:
+
+- Processing payroll on your schedule, weekly, biweekly, or semi-monthly
+- Calculating federal, state, and local tax withholdings correctly
+- Filing quarterly and annual payroll tax returns on time
+- Setting up and managing direct deposit for every employee
+- Onboarding new hires, including tax forms and state new-hire reporting
+- Preparing year-end W-2s and 1099s for staff and contractors
+
+Each task connects back to your general ledger and tax return automatically, so nothing gets re-entered or reconciled twice by you or your practice manager.
+
+[Learn about payroll services](/services/outsourced-accounting/payroll-services)
 
 ### Bill Pay & Vendor Management
 icon: Receipt
