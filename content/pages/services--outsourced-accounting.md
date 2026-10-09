@@ -101,6 +101,19 @@ When a notice arrives, you get a CPA who already knows your filings responding o
 
 If you're ready to stop patching together bookkeepers, payroll software, and a part-time tax preparer, [schedule a consultation](/locations) and we'll build a fixed monthly plan around your practice or business.
 
+<!-- block: content-table -->
+## Outsourced Accounting at a Glance
+
+One fixed monthly fee covers all five services. Here is what each one does for your practice or business.
+
+| Service | What it covers | What you get |
+| --- | --- | --- |
+| [Bookkeeping & Financial Reporting](/services/outsourced-accounting) | Monthly reconciliations, accurate books, and financial statements | Reports that reflect what actually happened, not entries waiting to be cleaned up at tax time |
+| [Business Tax](/services/outsourced-accounting/business-tax) | Tax planning and preparation built on the books we already manage | Filings that match your financials instead of being reconstructed under deadline pressure |
+| [Payroll Services](/services/outsourced-accounting/payroll-services) | Accurate, on-time payroll for staff and providers | Payroll data that flows straight into your financial reporting |
+| Bill Pay & Vendor Management | Vendor invoices reviewed, approved, and paid on schedule | A clear record of every payment tied to your monthly financials |
+| [IRS Notice Protection](/services/outsourced-accounting/irs-notice-protection) | A CPA who already knows your filings responds when a notice arrives | Someone handling it on your behalf, not a stranger starting from scratch |
+
 <!-- block: cta-banner | variant: image-bg | image: consultation-handshake-office.jpg | alt: "Advisor and client shaking hands after a consultation in a bright office" | query: "business advisor client handshake office" -->
 ## Ready to hand your books to a team that already gets it
 
