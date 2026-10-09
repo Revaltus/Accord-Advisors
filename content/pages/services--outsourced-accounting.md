@@ -77,7 +77,14 @@ Outsourced accounting isn't a single service. It's a set of them, working togeth
 ### Bookkeeping & Financial Reporting
 icon: Calculator
 
-Monthly reconciliations, accurate books, and financial statements that reflect what actually happened in your practice or business, not just entries waiting to be cleaned up at tax time.
+Monthly reconciliations, accurate books, and financial statements that reflect what actually happened in your practice or business, not just entries waiting to be cleaned up at tax time. We handle:
+
+- Bank and credit card reconciliations
+- General ledger maintenance
+- Accounts payable and receivable tracking
+- Month-end close
+
+Once your books are closed, you get financial reports that show you exactly where revenue, expenses, and cash stand.
 
 ### Business Tax
 icon: FileText
