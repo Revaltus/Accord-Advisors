@@ -89,7 +89,16 @@ Once your books are closed, you get financial reports that show you exactly wher
 ### Business Tax
 icon: FileText
 
-Tax planning and preparation built on the same books your accounting team already manages, so filings match your financials instead of getting reconstructed under deadline pressure. [Learn about business tax](/services/outsourced-accounting/business-tax)
+Tax planning and preparation built on the same books your accounting team already manages, so filings match your financials instead of getting reconstructed under deadline pressure. We handle:
+
+- Organizing financial records throughout the year
+- Identifying every available deduction
+- Filing accurate federal, state, and local returns on time
+- Managing extensions when circumstances call for them
+
+Every engagement is CPA-led, which means the same person who understands your industry is the one reviewing your return, not handing it off down the line.
+
+[Learn about business tax](/services/outsourced-accounting/business-tax)
 
 ### Payroll Services
 icon: Users
