@@ -59,6 +59,22 @@ Accord Advisors handles [personal income tax preparation and planning](/services
 
 HVAC installers, electricians, plumbers, landscapers, auto mechanics, and other service-based business owners across the United States get one team handling both sides of the return, instead of reconciling advice from two firms that never talk to each other.
 
+<!-- block: content-prose -->
+## How our services fit the needs of your service business
+
+Three services cover most of what a service-based business owner needs from an accounting firm. Here is what each one does for you.
+
+**[Outsourced Accounting](/services/outsourced-accounting)**
+We act as your outsourced accounting department for one fixed monthly fee. You get reconciled books, monthly financial statements, and dashboards that show cash position, job profitability, and receivables, all through a secure online platform. A CPA is available when you have a question, and there is no hourly billing.
+
+**[Business Foundation Services](/services/business-foundation-services)**
+Whether you are launching a new shop or have outgrown your original setup, we help you choose the right entity type, set up your accounting system and chart of accounts, and get licensing, registration, and compliance questions answered. Starting with a solid structure makes your business easier to finance, run, and eventually sell.
+
+**[Personal Income Tax](/services/personal-income-tax)**
+Your business income lands on your personal return, so we plan for both together. We gather your tax documents, file electronically, and offer year-round planning on deductions, estimated payments, and compliance, so one team handles both sides instead of two preparers who never talk.
+
+Together, these services give you clear numbers every month, a strong financial base, and fewer tax surprises, all for a predictable fee.
+
 <!-- block: stats-bar | variant: 3-up -->
 ## Nationwide reach, with roots in the greater Indianapolis area
 
