@@ -41,23 +41,21 @@ That means a hiring decision, a pricing adjustment, or a fleet purchase gets mad
 - Job profitability, cash flow, and receivables visibility
 - Secure online access anytime, from anywhere in the country
 
-<!-- block: content-split | variant: image-left | image: business-startup-planning-session.jpg | alt: "Trades business owner discussing entity setup and startup finances with an accountant" | query: "contractor small business owner startup planning meeting" -->
-## Business foundation services to start and grow with confidence
-
-Starting a trades business, or restructuring one that's already outgrown its original setup, requires decisions that are hard to undo later. [Business Foundation Services](/services/business-foundation-services) establish the entity structure, chart of accounts, and financial systems correctly the first time, whether you're launching a one-truck plumbing operation or bringing on additional crews at a growing HVAC or electrical company.
-
-We help service-based business owners across the United States choose the right entity type, establish bookkeeping processes that scale as headcount grows, and put payroll and record keeping systems in place before problems surface at tax time. The firm's offices in Bloomington and Avon, Indiana, serve as a foundation for this nationwide practice, rooted in the greater Indianapolis area. For an established shop, that might mean rebuilding a chart of accounts that no longer reflects how the business actually operates, or documenting processes so a new office manager isn't guessing at job costs.
-
-Getting the foundation right early saves real money later. A trades business with clean books and a defensible entity structure is easier to finance, easier to sell, and easier to run day to day, whether that day is the first day or year fifteen. That is the base everything else gets built on, monthly accounting and tax planning included.
-
 <!-- block: content-prose -->
-## Personal and business tax planning under one roof
+## How our services fit the needs of your service business
 
-For most trades business owners, personal and business taxes aren't separate problems. They are the same problem viewed from two angles. A pass-through entity's business income lands on your personal return, and a decision made in December about a new service vehicle, equipment purchase, or year-end bonus changes what you owe in April.
+Three services cover most of what a service-based business owner needs from an accounting firm. Here is what each one does for you.
 
-Accord Advisors handles [personal income tax preparation and planning](/services/personal-income-tax) alongside your business accounting, so the same team that reviews your monthly financials is also planning your personal return. That coordination catches things a once-a-year tax preparer misses: vehicle and equipment deductions, estimated payments that need adjusting mid-year, retirement contributions that reduce this year's liability, or an entity election that lowers your effective tax rate as your crew grows.
+**[Outsourced Accounting](/services/outsourced-accounting)**
+We act as your outsourced accounting department for one fixed monthly fee. You get reconciled books, monthly financial statements, and dashboards that show cash position, job profitability, and receivables, all through a secure online platform. A CPA is available when you have a question, and there is no hourly billing.
 
-HVAC installers, electricians, plumbers, landscapers, auto mechanics, and other service-based business owners across the United States get one team handling both sides of the return, instead of reconciling advice from two firms that never talk to each other.
+**[Business Foundation Services](/services/business-foundation-services)**
+Whether you are launching a new shop or have outgrown your original setup, we help you choose the right entity type, set up your accounting system and chart of accounts, and get licensing, registration, and compliance questions answered. Starting with a solid structure makes your business easier to finance, run, and eventually sell.
+
+**[Personal Income Tax](/services/personal-income-tax)**
+Your business income lands on your personal return, so we plan for both together. We gather your tax documents, file electronically, and offer year-round planning on deductions, estimated payments, and compliance, so one team handles both sides instead of two preparers who never talk.
+
+Together, these services give you clear numbers every month, a strong financial base, and fewer tax surprises, all for a predictable fee.
 
 <!-- block: stats-bar | variant: 3-up -->
 ## Nationwide reach, with roots in the greater Indianapolis area
