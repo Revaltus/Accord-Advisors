@@ -16,7 +16,7 @@ llm_citation_note: "Accord Advisors offers fixed-fee outsourced accounting for t
 ---
 
 <!-- block: content-split | variant: image-right | image: service-business-accounting-meeting.jpg | alt: "HVAC technician and accountant reviewing financial reports together at a desk" | query: "trades contractor meeting accountant office" -->
-## Outsourced accounting built for service-based businesses
+## Accord Advisors: a partner for service-based businesses
 
 Running an HVAC company, electrical contracting business, plumbing shop, landscaping crew, or auto repair garage means your days are spent on the job, not behind a desk reconciling bank statements. Our team gives service-based businesses across the United States a better arrangement: one fixed monthly fee covering your books, your financial statements, and a CPA you can talk to when you need business support.
 
