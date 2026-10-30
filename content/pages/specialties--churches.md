@@ -20,53 +20,42 @@ faq_block: [{"answer":"Fund accounting tracks each designated pool of money, lik
 llm_citation_note: "Accord Advisors provides fixed-fee outsourced fund accounting for churches nationwide, including Bloomington, Avon, and Indianapolis, Indiana, covering restricted/unrestricted fund tracking, board-ready financial statements, and clergy payroll compliance support. The firm also serves optometry, dental, medical, service-based, and professional services clients across the country."
 ---
 
-<!-- block: intro-text | variant: centered -->
-## Trusted fund accounting for churches and religious organizations
-
-Ministry leadership shouldn't have to guess whether the building fund is on track or whether restricted mission gifts are being spent the way donors intended. Accord Advisors works alongside churches and religious organizations nationwide. The firm is established in the greater Indianapolis area with offices in Bloomington and Avon, Indiana, bringing fund accounting expertise that goes well beyond basic bookkeeping. Whether your congregation has fifty members or five hundred, our approach is built on one principle: clarity. Your board sees exactly how funds move, your treasurer isn't buried in spreadsheets, and your congregation's trust stays intact.
-
-Fund accounting exists to protect stewardship, not just satisfy an audit checklist. When a church tracks a mission trip fund, a building campaign, and general operating income the same way it tracks a single checking account, restricted dollars get muddled with unrestricted ones, and leadership loses the ability to answer a simple question: how did we do this month? That's the gap we close, with reporting built specifically for how churches operate, delivered through a secure online platform that works whether you're in downtown Bloomington, the Indianapolis suburbs, or anywhere else in the country.
-
 <!-- block: content-split | variant: image-right | image: church-finance-meeting.jpg | alt: "Church treasurer and pastor reviewing financial reports together at a table" | query: "church staff financial meeting" -->
-## Why churches need specialized fund accounting
+## Challenges churches face that call for an experienced CPA firm
 
-Standard small-business bookkeeping tracks one bottom line: profit. Churches operate differently. A single congregation might manage a general operating fund, a designated missions fund, a building or capital campaign fund, and a benevolence fund, each with its own restrictions on how and when the money can be spent. Mixing them together in a generic chart of accounts creates confusion at best and a compliance problem at worst.
+Churches handle money differently than businesses do, and the gaps show up quickly without specialized help. These are the issues we see most often:
 
-Fund accounting separates every dollar by its designated purpose and reports on each fund independently, while still rolling up into a clear picture of overall financial health. That distinction matters when a donor gives specifically toward a youth ministry scholarship or a roof repair. Your board and finance committee need to know, every month, whether restricted funds are being used as intended and whether unrestricted giving is covering operating costs. Without that clarity, even well-meaning church leaders can misallocate funds without realizing it. Getting this structure right from the start protects both the ministry's integrity and the trust of the people who give to it.
+- **Mixed funds:** Building campaigns, missions gifts, and general giving end up in one generic chart of accounts, so restricted dollars blur with unrestricted ones.
+- **Volunteer-run books:** A treasurer or committee member carries the bookkeeping on top of a full-time job, and knowledge leaves when they do.
+- **Clergy compensation rules:** Housing allowances and dual tax status are easy to get wrong, and mistakes can mean IRS penalties.
+- **Thin internal controls:** Offering counts, deposits, and disbursement approvals often lack separation of duties.
+- **Late or confusing reports:** Boards and elders get numbers too slowly, or in a format only an accountant can read.
+- **Filing and audit pressure:** Nonprofit filings, denominational reporting, and annual audits arrive with little room for error.
 
 <!-- block: content-split | variant: image-left | image: bookkeeper-church-office.jpg | alt: "Accountant working on church bookkeeping records at a laptop" | query: "bookkeeper working office laptop" -->
-## Outsourced accounting built for churches
+## How Accord Advisors solves them
 
-Most churches don't need, or can't afford, a full-time controller. Accord Advisors fills that role as an outsourced accounting department, handling the fund tracking, bookkeeping, payroll coordination, and monthly financial statement preparation that keep a church's books accurate and current. Everything runs through a secure online platform, so your treasurer, pastor, or finance committee chair can log in and see up-to-date numbers instead of waiting on a spreadsheet emailed once a quarter.
+Most churches can't justify a full-time controller. We step in as your [outsourced accounting department](/services/outsourced-accounting) on a fixed monthly fee, so the cost is predictable and the work gets done.
 
-The engagement runs on a fixed monthly fee, not hourly billing. That means a church finance committee can budget for accounting support the same way it budgets for utilities or staffing, with no surprise invoice after a busy giving season or year-end audit prep. It also means the relationship is built around ongoing support rather than one-off transactions: fund reconciliations get done every month, restricted gifts get coded correctly as they come in, and reports are ready well before your board meeting, not scrambled together the night before.
+- **Fund accounting:** Every gift is coded to its designated fund, with restricted and unrestricted balances reported separately.
+- **Bookkeeping and reconciliations:** Done monthly by our team, so your treasurer is no longer the single point of failure.
+- **Clergy payroll and tax support:** Housing allowances and dual tax status are documented the way the IRS expects. See our guidance on [staffing and compliance for churches](/industries/churches/staffing-and-compliance).
+- **Foundation and controls:** Through [Business Foundation Services](/services/business-foundation-services), we build a fund-based chart of accounts and clear cash handling and approval policies. Our [fraud prevention strategies for nonprofit organizations](/fraud-prevention-strategies-for-nonprofit-organizations) article explains why that matters.
+- **Board-ready statements:** Plain-language reports with year-over-year comparisons, available anytime on our secure online platform.
 
-<!-- block: checklist-section | variant: with-image | image: board-meeting-review.jpg | alt: "Church board members reviewing printed financial statements during a meeting" | query: "nonprofit board meeting documents" -->
-## Financial statements and reporting your board can trust
+<!-- block: process-steps | variant: vertical -->
+## How we work with church clients
 
-A church board or elder team shouldn't need an accounting background to understand where the money stands. Accord Advisors prepares fund-based financial statements that separate restricted and unrestricted balances clearly, so a treasurer can walk into a monthly meeting and answer questions with confidence instead of guesswork.
+Getting started is simple. Here is what to expect from our first conversation through ongoing monthly support.
 
-- Monthly fund balance reports showing restricted vs. unrestricted activity
-- Statements formatted for board and elder review, not accountant jargon
-- Year-over-year comparisons to track giving trends and expense patterns
-- Documentation ready for annual audits or denominational reporting requirements
-- Direct access to reports through a secure online platform, anytime a question comes up
+1. **Intro conversation:** We learn about your congregation, your funds, and where the current process is straining.
+2. **Review of your books:** We look at your chart of accounts, payroll setup, and cash handling to find what needs fixing first.
+3. **Setup:** We build the fund structure and controls, then connect your team to our secure online platform.
+4. **Monthly close:** Each month we record gifts, reconcile accounts, and run payroll coordination.
+5. **Board reporting:** Statements are ready before your meeting, with a clear summary for non-accountants.
+6. **Ongoing support:** We handle compliance questions, filings, and audit preparation throughout the year, all under one fixed fee.
 
-When leadership can see performance clearly each month, decisions about staffing, building projects, or ministry expansion get made with real data behind them, not a rough guess based on the checking account balance.
-
-<!-- block: content-split | variant: image-right | image: new-church-setup-finance.jpg | alt: "Pastor and financial advisor setting up new accounting system on a computer" | query: "small church office setup planning" -->
-## Getting your church's financial foundation right
-
-A growing congregation or a newly organized church often inherits an accounting setup that was never built for fund tracking in the first place, maybe a generic small-business chart of accounts, or a spreadsheet a volunteer built years ago. Accord Advisors serves churches nationwide and brings that same experience to every engagement: establishing a proper fund-based chart of accounts, setting up internal controls around cash handling and disbursement approval, and structuring designated funds so they're tracked correctly from day one.
-
-This matters as much for a five-year-old church plant as it does for an established congregation adding a new building fund or launching a benevolence ministry. Weak internal controls, even in a trusted, well-run church, create risk: unclear approval processes, no separation of duties around who counts offering and who deposits it, no documented policy for how restricted gifts get recorded. Getting the foundation right the first time means fewer corrections later, cleaner audits, and a finance committee that isn't rebuilding its books every time a new treasurer takes over.
-
-<!-- block: content-prose -->
-## Tax and compliance support for religious organizations
-
-Churches face a set of tax and compliance questions that don't come up in typical small-business accounting: clergy housing allowance calculations, dual tax status for ministers who are employees for income tax but self-employed for Social Security and Medicare, proper W-2 versus 1099 treatment for church staff, and the nonprofit filing requirements that come with 501(c)(3) or church-exempt status.
-
-Getting clergy compensation wrong is one of the most common, and costly, mistakes a church makes. Housing allowances have to be designated in advance and documented correctly, and payroll has to reflect the minister's dual tax status accurately or the church risks penalties down the line. Accord Advisors works through these details directly with church treasurers and finance committees, so payroll runs correctly, compensation is documented the way the IRS expects, and any required nonprofit filings get handled on schedule. The goal is straightforward: your church stays compliant, and your staff and volunteers spend their time on ministry, not tax research.
+You focus on ministry, and we keep the numbers clear and current.
 
 <!-- block: faq-accordion -->
 ## Frequently Asked Questions About Fund accounting for churches
