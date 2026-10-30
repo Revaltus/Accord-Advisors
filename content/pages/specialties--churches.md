@@ -46,6 +46,8 @@ Most churches can't justify a full-time controller. We step in as your [outsourc
 <!-- block: process-steps | variant: vertical -->
 ## How we work with church clients
 
+Getting started is simple. Here is what to expect from our first conversation through ongoing monthly support.
+
 1. **Intro conversation:** We learn about your congregation, your funds, and where the current process is straining.
 2. **Review of your books:** We look at your chart of accounts, payroll setup, and cash handling to find what needs fixing first.
 3. **Setup:** We build the fund structure and controls, then connect your team to our secure online platform.
