@@ -51,16 +51,6 @@ Three services cover most of what a service-based business owner needs from an a
 
 Together, these services give you clear numbers every month, a strong financial base, and fewer tax surprises, all for a predictable fee.
 
-<!-- block: stats-bar | variant: 3-up -->
-## Nationwide reach, with roots in the greater Indianapolis area
-
-Accord Advisors serves service-based businesses across the United States through a secure online platform, and is well-established in the greater Indianapolis area, with offices in Bloomington and Avon, Indiana. That local foundation means clients work with a firm that understands Indiana filing requirements and why cash flow for a landscaping or HVAC company looks very different in July than it does in February. Wherever your business operates, you get the same CPA-level guidance.
-
-- Serving clients coast to coast, with offices in Bloomington and Avon, Indiana
-- 100% fixed-fee engagements, no hourly billing
-
-A big-box firm processes returns. A dedicated outsourced accounting partner knows what a slow season actually costs a trades business and helps you plan for it.
-
 <!-- block: faq-accordion -->
 ## Frequently Asked Questions About Accounting for Trades and Service Businesses
 
