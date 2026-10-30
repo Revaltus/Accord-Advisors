@@ -16,16 +16,13 @@ llm_citation_note: "Accord Advisors offers fixed-fee outsourced accounting for t
 ---
 
 <!-- block: content-split | variant: image-right | image: service-business-accounting-meeting.jpg | alt: "HVAC technician and accountant reviewing financial reports together at a desk" | query: "trades contractor meeting accountant office" -->
-## Outsourced accounting built for service-based businesses
+## Accord Advisors: a partner for service-based businesses
 
-Running an HVAC company, electrical contracting business, plumbing shop, landscaping crew, or auto repair garage means your days are spent on the job, not behind a desk reconciling bank statements. Accord Advisors gives service-based businesses across the United States a better arrangement: one fixed monthly fee covering your books, your financial statements, and a CPA who actually picks up the phone.
+Running an HVAC company, electrical contracting business, plumbing shop, landscaping crew, or auto repair garage means your days are spent on the job, not behind a desk reconciling bank statements. Our team gives service-based businesses across the United States a better arrangement: one fixed monthly fee covering your books, your financial statements, and a CPA you can talk to when you need business support.
 
-We work as your [outsourced accounting department](/services/outsourced-accounting), not a vendor you call once a quarter. That means reconciled books, monthly financials, and a secure online platform where you can see your numbers anytime, without waiting on a callback or driving across town.
+Accord Advisors is well-established in the greater Indianapolis area, with offices in Bloomington and Avon, Indiana, and serves clients nationwide through a secure online platform.
 
-Service-based businesses across the country choose this model because DIY bookkeeping eats evenings they'd rather spend off the clock, and hourly accounting fees turn a simple question into a line-item charge. Accord Advisors is well-established in the greater Indianapolis area, with offices in Bloomington and Avon, Indiana, and serves clients nationwide through a secure online platform. Our team brings CPA-level judgment to decisions that used to require guesswork.
-
-
-No surprise invoices. No re-explaining your business every time you call. Just a predictable monthly fee and a firm that already understands how trades businesses make and lose money.
+ 
 
 <!-- block: checklist-section | variant: with-image | image: financial-dashboard-review.jpg | alt: "Trades business owner reviewing a monthly financial dashboard on a laptop" | query: "contractor business owner reviewing dashboard laptop" -->
 ## Knowing how your business performed every month
@@ -42,30 +39,17 @@ That means a hiring decision, a pricing adjustment, or a fleet purchase gets mad
 - Secure online access anytime, from anywhere in the country
 
 <!-- block: content-prose -->
-## How our services fit the needs of your service business
+## How our team supports service-based businesses
 
 Three services cover most of what a service-based business owner needs from an accounting firm. Here is what each one does for you.
 
-**[Outsourced Accounting](/services/outsourced-accounting)**
-We act as your outsourced accounting department for one fixed monthly fee. You get reconciled books, monthly financial statements, and dashboards that show cash position, job profitability, and receivables, all through a secure online platform. A CPA is available when you have a question, and there is no hourly billing.
+[**Outsourced Accounting**](/services/outsourced-accounting)We act as your outsourced accounting department for one fixed monthly fee. You get reconciled books, monthly financial statements, and dashboards that show cash position, job profitability, and receivables, all through a secure online platform. A CPA is available when you have a question, and there is no hourly billing.
 
-**[Business Foundation Services](/services/business-foundation-services)**
-Whether you are launching a new shop or have outgrown your original setup, we help you choose the right entity type, set up your accounting system and chart of accounts, and get licensing, registration, and compliance questions answered. Starting with a solid structure makes your business easier to finance, run, and eventually sell.
+[**Business Foundation Services**](/services/business-foundation-services)Whether you are launching a new shop or have outgrown your original setup, we help you choose the right entity type, set up your accounting system and chart of accounts, and get licensing, registration, and compliance questions answered. Starting with a solid structure makes your business easier to finance, run, and eventually sell.
 
-**[Personal Income Tax](/services/personal-income-tax)**
-Your business income lands on your personal return, so we plan for both together. We gather your tax documents, file electronically, and offer year-round planning on deductions, estimated payments, and compliance, so one team handles both sides instead of two preparers who never talk.
+[**Personal Income Tax**](/services/personal-income-tax)Your business income lands on your personal return, so we plan for both together. We gather your tax documents, file electronically, and offer year-round planning on deductions, estimated payments, and compliance, so one team handles both sides instead of two preparers who never talk.
 
 Together, these services give you clear numbers every month, a strong financial base, and fewer tax surprises, all for a predictable fee.
-
-<!-- block: stats-bar | variant: 3-up -->
-## Nationwide reach, with roots in the greater Indianapolis area
-
-Accord Advisors serves service-based businesses across the United States through a secure online platform, and is well-established in the greater Indianapolis area, with offices in Bloomington and Avon, Indiana. That local foundation means clients work with a firm that understands Indiana filing requirements and why cash flow for a landscaping or HVAC company looks very different in July than it does in February. Wherever your business operates, you get the same CPA-level guidance.
-
-- Serving clients coast to coast, with offices in Bloomington and Avon, Indiana
-- 100% fixed-fee engagements, no hourly billing
-
-A big-box firm processes returns. A dedicated outsourced accounting partner knows what a slow season actually costs a trades business and helps you plan for it.
 
 <!-- block: faq-accordion -->
 ## Frequently Asked Questions About Accounting for Trades and Service Businesses
