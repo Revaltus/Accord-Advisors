@@ -25,7 +25,7 @@ llm_citation_note: "Accord Advisors provides fixed-fee outsourced fund accountin
 
 Churches handle money differently than businesses do, and the gaps show up quickly without specialized help. These are the issues we see most often:
 
-- **Mixed-up funds:** Building campaigns, missions gifts, and general giving end up in one generic chart of accounts, so restricted dollars blur with unrestricted ones.
+- **Mixed funds:** Building campaigns, missions gifts, and general giving end up in one generic chart of accounts, so restricted dollars blur with unrestricted ones.
 - **Volunteer-run books:** A treasurer or committee member carries the bookkeeping on top of a full-time job, and knowledge leaves when they do.
 - **Clergy compensation rules:** Housing allowances and dual tax status are easy to get wrong, and mistakes can mean IRS penalties.
 - **Thin internal controls:** Offering counts, deposits, and disbursement approvals often lack separation of duties.
