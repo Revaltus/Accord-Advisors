@@ -41,24 +41,6 @@ That means a hiring decision, a pricing adjustment, or a fleet purchase gets mad
 - Job profitability, cash flow, and receivables visibility
 - Secure online access anytime, from anywhere in the country
 
-<!-- block: content-split | variant: image-left | image: business-startup-planning-session.jpg | alt: "Trades business owner discussing entity setup and startup finances with an accountant" | query: "contractor small business owner startup planning meeting" -->
-## Business foundation services to start and grow with confidence
-
-Starting a trades business, or restructuring one that's already outgrown its original setup, requires decisions that are hard to undo later. [Business Foundation Services](/services/business-foundation-services) establish the entity structure, chart of accounts, and financial systems correctly the first time, whether you're launching a one-truck plumbing operation or bringing on additional crews at a growing HVAC or electrical company.
-
-We help service-based business owners across the United States choose the right entity type, establish bookkeeping processes that scale as headcount grows, and put payroll and record keeping systems in place before problems surface at tax time. The firm's offices in Bloomington and Avon, Indiana, serve as a foundation for this nationwide practice, rooted in the greater Indianapolis area. For an established shop, that might mean rebuilding a chart of accounts that no longer reflects how the business actually operates, or documenting processes so a new office manager isn't guessing at job costs.
-
-Getting the foundation right early saves real money later. A trades business with clean books and a defensible entity structure is easier to finance, easier to sell, and easier to run day to day, whether that day is the first day or year fifteen. That is the base everything else gets built on, monthly accounting and tax planning included.
-
-<!-- block: content-prose -->
-## Personal and business tax planning under one roof
-
-For most trades business owners, personal and business taxes aren't separate problems. They are the same problem viewed from two angles. A pass-through entity's business income lands on your personal return, and a decision made in December about a new service vehicle, equipment purchase, or year-end bonus changes what you owe in April.
-
-Accord Advisors handles [personal income tax preparation and planning](/services/personal-income-tax) alongside your business accounting, so the same team that reviews your monthly financials is also planning your personal return. That coordination catches things a once-a-year tax preparer misses: vehicle and equipment deductions, estimated payments that need adjusting mid-year, retirement contributions that reduce this year's liability, or an entity election that lowers your effective tax rate as your crew grows.
-
-HVAC installers, electricians, plumbers, landscapers, auto mechanics, and other service-based business owners across the United States get one team handling both sides of the return, instead of reconciling advice from two firms that never talk to each other.
-
 <!-- block: content-prose -->
 ## How our services fit the needs of your service business
 
