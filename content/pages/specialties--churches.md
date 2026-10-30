@@ -55,6 +55,8 @@ Getting started is simple. Here is what to expect from our first conversation th
 5. **Board reporting:** Statements are ready before your meeting, with a clear summary for non-accountants.
 6. **Ongoing support:** We handle compliance questions, filings, and audit preparation throughout the year, all under one fixed fee.
 
+You focus on ministry, and we keep the numbers clear and current.
+
 <!-- block: faq-accordion -->
 ## Frequently Asked Questions About Fund accounting for churches
 
