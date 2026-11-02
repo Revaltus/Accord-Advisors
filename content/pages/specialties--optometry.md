@@ -46,11 +46,11 @@ Without monthly clarity, staffing and purchasing decisions get made on instinct 
 <!-- block: content-prose -->
 ## Outsourced accounting and a strong practice foundation
 
-Our [Outsourced Accounting](/services/outsourced-accounting) service works as your practice's full accounting department: bookkeeping, financial statements, payroll coordination, and CFO-level insight for one fixed monthly fee agreed on before work begins. You can review your financials any time on our secure online platform, so you always know where the practice stands.
-
-Business tax preparation and planning are part of that same relationship. Instead of juggling a bookkeeper and a separate tax preparer, one team prepares your practice's returns and plans ahead all year, so tax decisions around equipment, compensation, and growth are made with current numbers.
+Our [Outsourced Accounting](/services/outsourced-accounting) service works as your practice's full accounting department: bookkeeping, financial statements, payroll coordination, business tax preparation and planning, and CFO-level insight for one fixed monthly fee agreed on before work begins. One team prepares your practice's returns and plans ahead all year, so tax decisions around equipment, compensation, and growth use current numbers. You can review your financials any time on our secure online platform.
 
 Our [Business Foundation Services](/services/business-foundation-services) help when you open a new practice, acquire an existing one, or bring on a partner or associate. We guide entity structure, accounting system setup, and the financial due diligence and buy-in details that keep each transition clear and documented.
+
+Our [Personal Income Tax](/services/personal-income-tax) service helps optometrists with their individual returns. We gather your tax documents, file electronically, and offer year-round planning plus guidance on deductions and compliance, so your personal taxes line up with how your practice pays you.
 
 <!-- block: content-split | variant: image-right | image: monthly-insight-dashboard.jpg | alt: "Practice manager viewing monthly financial dashboard on a tablet" | query: "practice manager reviewing dashboard tablet" -->
 ## Monthly insight that helps you make confident decisions
