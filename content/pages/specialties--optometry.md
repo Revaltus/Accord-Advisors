@@ -52,13 +52,6 @@ Our [Business Foundation Services](/services/business-foundation-services) help 
 
 Our [Personal Income Tax](/services/personal-income-tax) service helps optometrists with their individual returns. We gather your tax documents, file electronically, and offer year-round planning plus guidance on deductions and compliance, so your personal taxes line up with how your practice pays you.
 
-<!-- block: content-split | variant: image-right | image: monthly-insight-dashboard.jpg | alt: "Practice manager viewing monthly financial dashboard on a tablet" | query: "practice manager reviewing dashboard tablet" -->
-## Monthly insight that helps you make confident decisions
-
-Practice managers and shareholders ask the same question every month: how did we actually do? Waiting six weeks for a bookkeeper to close the books, or waiting until tax season to find out, isn't good enough when payroll, inventory orders, and staffing decisions can't wait that long.
-
-Accord Advisors delivers financial and non-financial data your practice can act on right away, not just a profit-and-loss statement but the [practice management metrics](/industries/optometry/practice-management-metrics) that show whether patient volume, collections, and staffing are trending the right direction. You see the numbers on our secure online platform as soon as they're ready, so a decision about adding technician hours or holding off on a frame order is based on this month's reality instead of last quarter's guess.
-
 <!-- block: content-split | variant: image-left | image: optometry-trusted-advisor.jpg | alt: "CPA advisor consulting with optometry practice owner in a bright office" | query: "CPA advisor consulting business owner office" -->
 ## Why optometrists across Bloomington and Indianapolis trust Accord Advisors
 
