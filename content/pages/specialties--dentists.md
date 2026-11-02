@@ -38,36 +38,14 @@ Insurance reimbursements complicate the picture further. Claims get delayed, adj
 
 Add staffing costs, hygienist pay structures, and equipment financing, and most owners end up reviewing financials weeks after the month has closed, if at all. Accord Advisors builds reporting around the numbers that matter to a dental office: production, collections, overhead ratios, and staffing costs, delivered on a schedule that lets you make decisions while they still matter.
 
-<!-- block: checklist-section | variant: with-image | image: dental-practice-financial-dashboard.jpg | alt: "Financial dashboard reports for a dental practice on a tablet screen" | query: "financial dashboard tablet office" -->
-## Outsourced accounting built for dental offices
+<!-- block: content-prose -->
+## Accounting, tax, and foundational services for dental practices
 
-Outsourced accounting from Accord Advisors covers the full back office of a dental practice, not just tax time. Bookkeeping stays current so production and collections numbers are ready the moment you want them, not weeks later.
+**Outsourced accounting.** Monthly bookkeeping is reconciled against production and collections, with payroll support for staff, associates, and hygienists. Dashboards show overhead ratios and cash flow on a secure online platform. [Explore outsourced accounting services](/services/outsourced-accounting).
 
-Monthly reporting turns raw numbers into dashboards built for the decisions dentists actually make: adding a hygienist, financing new equipment, or evaluating whether it's time to bring on an associate.
+**Business Foundation Services.** Opening a new office, adding a location, or buying into a practice? We help with entity selection, bookkeeping systems built around production and collections, and payroll setup, so the financial foundation is right from day one. [Explore Business Foundation Services](/services/business-foundation-services).
 
-- Monthly bookkeeping reconciled against production and collections reports
-- Payroll support for dental staff, associates, and hygienists
-- Financial statements delivered on a predictable monthly schedule
-- Dashboards showing overhead ratios and cash flow trends
-- Secure online access to reports and documents anytime
-
-<!-- block: content-split | variant: image-right | image: dentist-tax-planning-meeting.jpg | alt: "Dentist and CPA reviewing tax planning documents at a desk" | query: "tax planning meeting dentist accountant" -->
-## Tax preparation and planning for dentists
-
-Dental practice tax returns rarely stay simple. Entity structure, associate buy-ins, equipment purchases, and retirement plan contributions all shift the tax picture year to year, and preparation without planning tends to cost owners money.
-
-The Accord Advisors team reviews entity structure, whether you operate as an S corp, LLC, or professional corporation, to confirm it still fits your practice's income and goals. Section 179 deductions on dental equipment, retirement plan strategy for owners and associates, and quarterly estimates get built into a year-round plan rather than a once-a-year filing.
-
-Personal returns for practice owners and associates get the same attention, so business and personal tax positions stay aligned instead of working against each other.
-
-<!-- block: content-split | variant: image-left | image: new-dental-practice-setup.jpg | alt: "New dental practice owner setting up office with contractor" | query: "new dental practice setup owner" -->
-## Business foundation services for new and growing practices
-
-Buying into a practice or opening a new office comes with decisions that are hard to undo later: entity structure, chart of accounts, payroll setup, banking relationships. Get them wrong at the start and they follow the practice for years.
-
-Business Foundation Services from Accord Advisors set up the financial structure new and growing dental practices need from day one. That includes entity selection suited to a dental practice, bookkeeping systems built to track production and collections, and payroll setup for associates and staff.
-
-For dentists buying into an existing practice or adding a second location, the same foundation work applies: clean books, clear reporting lines, and a structure ready to scale before the first patient walks through the door.
+**Personal income tax.** Owners and associates get year-round tax planning and filing support, including guidance on deductions and retirement plans, so personal and practice finances stay aligned. [Explore personal income tax preparation](/services/personal-income-tax).
 
 <!-- block: feature-grid | variant: 3-col -->
 ## Why dentists choose a fixed-fee CPA partner
