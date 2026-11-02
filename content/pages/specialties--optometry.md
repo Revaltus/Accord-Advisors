@@ -43,28 +43,14 @@ Optometry is a retail business and a medical practice running side by side, and 
 
 Without monthly clarity, staffing and purchasing decisions get made on instinct instead of numbers. That's an expensive way to run a practice.
 
-<!-- block: content-split | variant: image-left | image: outsourced-accounting-optometry.jpg | alt: "Accountant working on secure online platform with optometry practice financials" | query: "accountant laptop financial reports office" -->
-## Outsourced accounting designed for your practice
+<!-- block: content-prose -->
+## Outsourced accounting and a strong practice foundation
 
-Most optometry practices don't need a part-time bookkeeper and a separate CPA for taxes stitched together and hoped for the best. They need one accounting relationship that covers both, billed at a clear monthly rate instead of a running hourly meter.
+Our [Outsourced Accounting](/services/outsourced-accounting) service works as your practice's full accounting department: bookkeeping, financial statements, payroll coordination, and CFO-level insight for one fixed monthly fee agreed on before work begins. You can review your financials any time on our secure online platform, so you always know where the practice stands.
 
-Our [Outsourced Accounting](/services/outsourced-accounting) service functions as your practice's full accounting department: bookkeeping, financial statements, payroll coordination, and CFO-level insight, delivered for a fixed monthly fee agreed on before work begins. No surprise invoice after a phone call to ask a question. You also get a secure online platform where you can review your practice's financials any time, from any location, instead of waiting on a printed report or a buried email attachment.
+Business tax preparation and planning are part of that same relationship. Instead of juggling a bookkeeper and a separate tax preparer, one team prepares your practice's returns and plans ahead all year, so tax decisions around equipment, compensation, and growth are made with current numbers.
 
-For a two-location practice, or a single office competing against a regional optical chain, that combination of dependable monthly reporting and a fixed cost changes how you plan. You know what accounting will cost in July and in December. Your numbers stay current when a lender, a potential partner, or an incoming associate optometrist asks to see them.
-
-<!-- block: process-steps | variant: vertical -->
-## Getting your practice's foundation right
-
-Whether you're opening your first location, buying an existing practice, or bringing on a partner, the accounting structure you set up in the first 90 days shapes everything that follows. Our [Business Foundation Services](/services/business-foundation-services) exist for exactly these moments.
-
-### Starting a new practice
-Entity structure, bookkeeping systems, and payroll setup done right from day one, so you're not untangling mistakes two years into ownership.
-
-### Acquiring an existing practice
-Financial due diligence and structuring guidance that protects you from inheriting someone else's inventory problems or reimbursement backlog.
-
-### Bringing on a partner or associate
-Buy-in valuations, compensation structures, and updated entity documents that keep the transition fair, documented, and free of ambiguity later.
+Our [Business Foundation Services](/services/business-foundation-services) help when you open a new practice, acquire an existing one, or bring on a partner or associate. We guide entity structure, accounting system setup, and the financial due diligence and buy-in details that keep each transition clear and documented.
 
 <!-- block: content-split | variant: image-right | image: monthly-insight-dashboard.jpg | alt: "Practice manager viewing monthly financial dashboard on a tablet" | query: "practice manager reviewing dashboard tablet" -->
 ## Monthly insight that helps you make confident decisions
