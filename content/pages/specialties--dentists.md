@@ -39,7 +39,7 @@ Insurance reimbursements complicate the picture further. Claims get delayed, adj
 Add staffing costs, hygienist pay structures, and equipment financing, and most owners end up reviewing financials weeks after the month has closed, if at all. Accord Advisors builds reporting around the numbers that matter to a dental office: production, collections, overhead ratios, and staffing costs, delivered on a schedule that lets you make decisions while they still matter.
 
 <!-- block: content-prose -->
-## Accounting, tax, and setup services for dental practices
+## Accounting, tax, and foundational services for dental practices
 
 **Outsourced accounting.** Monthly bookkeeping is reconciled against production and collections, with payroll support for staff, associates, and hygienists. Dashboards show overhead ratios and cash flow on a secure online platform. [Explore outsourced accounting services](/services/outsourced-accounting).
 
