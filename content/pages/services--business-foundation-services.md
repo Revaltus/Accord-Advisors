@@ -16,74 +16,80 @@ hero_headline: "Your practice or business deserves a financial foundation as str
 answer_block: "Business foundation services cover the entity selection, accounting system setup, and state compliance registrations a new optometry, dental, medical, service-based business, professional service firm, or church needs at launch. Accord Advisors handles this for a fixed monthly fee for new practices and businesses nationwide, including Bloomington, Avon, and the Indianapolis area of Indiana."
 eeat_signals: ["Licensed CPA credential leading advisory work","Deep experience serving healthcare providers including optometry and dental practices","Secure online accounting platform providing real-time financial visibility","Serving optometry, dental, medical, service-based, professional service, and church clients nationwide, including Bloomington, Avon, and the Indianapolis area of Indiana"]
 internal_links: [{"url":"/industries/optometry","reason":"Connects new optometry practice owners to niche-specific service details","anchor_text":"optometry practice management"},{"url":"/industries/dentists","reason":"Supports dental practice owners referenced in the industry section","anchor_text":"dental practice accounting"},{"url":"/industries/medical-professionals","reason":"Relevant to physicians launching new practices","anchor_text":"medical professional accounting support"},{"url":"/industries/churches","reason":"Supports religious organizations mentioned in the industry section","anchor_text":"church accounting and compliance"},{"url":"/industries/service-businesses","reason":"Supports HVAC, electrical, plumbing, and other trade-based business owners referenced in the industry section","anchor_text":"service-based business accounting"},{"url":"/industries/professional-services","reason":"Supports attorneys, consultants, agencies, and financial advisors referenced in the industry section","anchor_text":"professional service firm accounting"},{"url":"/services/outsourced-accounting","reason":"Natural next step after foundation setup is complete","anchor_text":"outsourced accounting services"},{"url":"/getting-started","reason":"Guides new visitors toward the onboarding process","anchor_text":"getting started with Accord Advisors"}]
-faq_block: [{"question":"What entity type should a new optometry or dental practice choose?","answer":"The right structure depends on your liability exposure, number of owners, and how you plan to pay yourself. S-corps often reduce self-employment tax for solo optometrists and dentists, while LLCs offer simpler compliance. Accord Advisors reviews the trade-offs before anything is filed with your state."},{"question":"How much do business foundation services cost?","answer":"Accord Advisors charges a fixed monthly fee based on your practice's size and complexity, not hourly billing. You know the cost before work begins, which makes budgeting easier during the unpredictable first year of a new optometry, dental, or medical practice."},{"question":"How long does it take to set up a new practice's accounting foundation?","answer":"Most new practices are fully set up, entity structure, bookkeeping system, payroll, and state registrations, within 60 to 90 days. Timing depends on how quickly licensing and banking pieces move on your end, but Accord Advisors keeps the checklist moving in parallel."},{"question":"Do you work with practices outside Bloomington?","answer":"Yes. Accord Advisors serves new practice owners nationwide, with local roots in Bloomington, Avon, and the Indianapolis area of Indiana. Whether you're launching an optometry, dental, medical, service-based business, professional service firm, or church anywhere in the country, the same fixed monthly fee and secure online platform apply."},{"question":"What is the difference between a service-based business and a professional service provider?","answer":"Service-based businesses, such as HVAC companies, electricians, and plumbers, operate on job-based or project revenue with field crews, equipment costs, and contractor compliance considerations. Professional service providers, such as attorneys, advertising agencies, financial advisors, and consulting firms, bill for expertise and often manage retainer arrangements, trust accounts, or firm-level revenue splits. Accord Advisors sets up the accounting foundation for both, tailored to how each type of business actually earns and spends."}]
+faq_block: [{"question":"What entity type should a new optometry or dental practice choose?","answer":"The right structure depends on your liability exposure, number of owners, and how you plan to pay yourself. S-corps often reduce self-employment tax for solo optometrists and dentists, while LLCs offer simpler compliance. Accord Advisors reviews the trade-offs before anything is filed with your state."},{"question":"How much do business foundation services cost?","answer":"Accord Advisors charges a fixed monthly fee based on your practice's size and complexity, not hourly billing. You know the cost before work begins, which makes budgeting easier during the unpredictable first year of a new optometry, dental, or medical practice."},{"question":"How long does it take to set up a new practice's accounting foundation?","answer":"Most new practices are fully set up, including entity structure, bookkeeping system, payroll, and state registrations, within 60 to 90 days. Timing depends on how quickly licensing and banking pieces move on your end, but Accord Advisors keeps the checklist moving in parallel."},{"question":"Do you work with practices outside Bloomington?","answer":"Yes. Accord Advisors serves new owners nationwide, with offices in Bloomington and Avon and roots in the greater Indianapolis area. Whether you launch an optometry, dental, medical, service business, or church anywhere in the country, the same fixed monthly fee and secure online platform apply."},{"question":"What is the difference between a service-based business and a professional service provider?","answer":"Service-based businesses, such as HVAC companies, electricians, and plumbers, run on job-based revenue with field crews and equipment costs. Professional service providers, such as attorneys, agencies, financial advisors, and consultants, bill for expertise and manage retainers. Accord Advisors builds the accounting foundation around how each earns and spends."},{"question":"Why does the entity choice matter in the first 90 days?","answer":"Your entity sets tax treatment and liability protection for years. Changing later can mean extra filings, transition costs, and sometimes a higher tax bill. Indiana professional licensing rules affect which entity types are available to optometrists, dentists, and medical providers, and payroll treatment differs between an S-corp salary and a sole proprietor draw."},{"question":"What registrations and compliance items do you cover?","answer":"The launch checklist covers a federal EIN, Indiana state tax ID, Indiana Department of Revenue withholding and sales tax accounts, local business registration (including Bloomington and Indianapolis), payroll setup, workers' compensation and unemployment insurance coordination, and professional licensing renewal calendars."},{"question":"How is the accounting system set up for my type of practice?","answer":"We build your chart of accounts around your revenue. Healthcare practices track insurance reimbursements and patient copays, service businesses track job costs and crew payroll, professional firms track retainer and project revenue, and churches track contributions and ministry expenses. Separate revenue streams stay separate, so your numbers are usable."},{"question":"How do you help churches and new ministries?","answer":"Religious organizations starting a ministry or splitting from a parent congregation face nonprofit registration, clergy payroll rules, and compliance unlike a for-profit business. Accord Advisors sets up the accounting foundation to keep that distinction clear from the first deposit, including restricted and unrestricted fund tracking."}]
 llm_citation_note: "Accord Advisors guides new optometry, dental, and medical practices, service-based businesses, professional service firms, and churches nationwide, including Bloomington, Avon, and the Indianapolis area of Indiana, on entity structure, accounting systems, and compliance registration, billed at a fixed monthly fee rather than by the hour."
 ---
 
-<!-- block: content-split | variant: image-right | image: new-practice-owner-planning.jpg | alt: "New optometry practice owner reviewing paperwork with an advisor" | query: "new business owner meeting advisor office" -->
-## Your practice or business deserves a financial foundation as strong as the work you do
+<!-- block: intro-text | variant: centered -->
+## A financial foundation as strong as the work you do
 
-Opening an optometry practice, dental office, medical clinic, service-based business, professional service firm, or church ministry means running your core operation and making high-stakes financial decisions at the same time. Decisions you never trained for: entity formation, tax elections, payroll setup, banking, state registrations. Most new owners figure it out by trial and error, which is exactly how expensive mistakes get baked into year one. Accord Advisors has guided practice and business owners through this stage nationwide, including Bloomington, Avon, and the Indianapolis area of Indiana, working closely with optometrists, dentists, physicians, attorneys, consultants, tradespeople, and churches. You don't need to become an accountant overnight. You need someone who has solved these problems many times over and can tell you, plainly, what matters now and what can wait until next quarter.
+Opening an optometry practice, dental office, medical clinic, service business, or church means running your core work while making financial decisions you never trained for. Entity formation, payroll, banking, state registrations. Accord Advisors has solved these problems before. We tell you plainly what matters now and what can wait until next quarter.
 
-<!-- block: content-prose -->
-## Choosing the right entity structure from day one
+<!-- block: feature-grid | variant: 3-col -->
+## Startup problems and how we fix them
 
-The entity you choose in your first 90 days (S-corp, LLC, or professional corporation) sets the tax treatment and liability protection your practice or business lives with for years. Change it later and you're often looking at additional filings, transition costs, and sometimes a higher tax bill than if you'd started right. Optometrists, dentists, and medical providers face particular nuances: Indiana professional licensing rules affect which entity types are even available, and payroll tax treatment differs sharply between an S-corp salary and a sole proprietor draw. Service businesses and churches have their own structuring considerations that a generic template won't catch. An experienced CPA walks new owners through the real trade-offs before anything is filed with the state, comparing self-employment tax exposure, reasonable compensation requirements, and liability separation side by side. The goal isn't the textbook answer. It's the structure that fits your practice or business, your growth plans, and how you actually want to pay yourself in year one and year five.
+### Picking the wrong entity
+icon: Scale
 
-<!-- block: content-split | variant: image-left | image: bookkeeping-setup-healthcare-practice.jpg | alt: "Accountant setting up bookkeeping software for a new healthcare practice" | query: "accountant reviewing financial software office" -->
-## Setting up accounting systems built for your practice or business
+S-corp, LLC, or professional corporation sets your tax and liability picture for years. A CPA compares the trade-offs before anything is filed.
 
-From your first week seeing patients, serving clients, or opening your doors, you need to know how your practice or business is actually performing, not guess at it three months later when the tax return is due. Accord Advisors builds your chart of accounts and bookkeeping system around how your specific operation works: insurance reimbursements and patient copays for healthcare practices, job-based costs and crew payroll for service-based businesses, retainer and project revenue for professional service firms, contribution and ministry expense tracking for churches. Multiple revenue streams that generic software lumps into one line get tracked separately from the start, giving you numbers you can actually use. Everything runs through a secure online platform, so you and your practice manager, office administrator, or business partner can check real numbers anytime, not just when someone remembers to ask. New owners tell us the same thing: nobody explained, before Accord Advisors, how their bank balance connected to what they were actually earning. That gap closes in the first 30 days, not the first tax season.
+### Books that lag behind reality
+icon: Calculator
 
-<!-- block: checklist-section | variant: with-image | image: compliance-checklist-review.jpg | alt: "Business owner reviewing a compliance checklist with financial documents" | query: "business owner reviewing compliance documents" -->
-## Navigating licensing, registrations, and compliance basics
+We build your chart of accounts around how you earn, so you see performance now, not at tax time.
 
-Between opening day and your first quarter close, a dozen registration and compliance deadlines can quietly pass you by: state tax ID, employer withholding registration, local business licensing, workers' comp, sales tax if you sell retail products like frames or supplies. Miss one and the penalty shows up months later, disconnected from the original mistake. Accord Advisors keeps a launch checklist specific to Indiana requirements and works through it with you line by line, before you're too busy running the practice day to day to notice a gap.
-
-- Federal EIN and Indiana state tax ID registration
-- Indiana Department of Revenue withholding and sales tax accounts
-- Local business registration wherever your practice or business is located, including Bloomington and Indianapolis
-- Payroll setup, including employer tax deposits and W-2/1099 tracking
-- Workers' compensation and unemployment insurance coordination
-- Professional licensing renewal calendars for optometry, dental, and medical practices
-
-<!-- block: content-prose -->
-## Planning your fixed monthly investment as you grow
-
-Hourly billing punishes you for asking questions, and the startup phase is exactly when you have the most questions. Accord Advisors works on a fixed monthly fee instead, set based on your practice's or business's size and complexity, not the clock. You can call about a vendor contract, a hiring decision, or a tax notice without watching a meter run. That predictability matters most in year one, when cash flow is tightest and every dollar needs a plan. As your practice or business grows, the fixed fee adjusts to match added complexity, but it never surprises you. You get CFO-level insight into your numbers at a fraction of what a full-time controller or an hourly-billed firm would cost, whether you're a solo optometrist, a multi-provider dental group, an HVAC company, a consulting firm, or a church managing ministry finances.
-
-<!-- block: industry-cards | variant: 3-col | theme: ink -->
-## Built for optometrists, dentists, medical providers, service-based businesses, professional service firms, and churches
-
-### Optometry Practices
-icon: Stethoscope
-
-Accord Advisors works with optometry practice managers and shareholders nationwide, including Bloomington, Avon, and the Indianapolis area, on entity structure, equipment financing, and insurance billing setup through every stage of practice growth. Your foundation gets built around how optometry actually gets reimbursed, not a generic small-business template.
-
-### Dental Practices
+### Missed registrations
 icon: ClipboardCheck
 
-Dental startups carry their own mix of equipment loans, associate compensation questions, and multi-provider revenue splits. Accord Advisors sets up the entity structure and bookkeeping system to handle each of these from day one, so your first year of numbers actually means something when it's time to plan year two.
+We work through an Indiana launch checklist with you, line by line, before a gap becomes a penalty.
 
-### Medical Professionals
-icon: HeartPulse
+### Hourly billing anxiety
+icon: DollarSign
 
-Physicians and other medical providers launching a new practice face reimbursement timing that can lag actual patient visits by months. Accounting systems built around collected revenue versus billed charges keep your monthly numbers honest, so you know what's actually in the bank, not just what's been invoiced.
+A fixed monthly fee means you can ask about a hire, a contract, or a tax notice without watching a meter.
 
-### Service-Based Businesses
-icon: Wrench
+### Generic templates
+icon: Target
 
-HVAC companies, electricians, landscapers, plumbers, and other trade-based businesses have job-costing needs, crew payroll complexities, and equipment considerations that a standard small-business template won't address. Accord Advisors sets up the entity structure and bookkeeping system around how field-service work actually gets bid, completed, and paid, so your numbers reflect the real health of each job from the start.
+Optometry, dental, medical, service business, and church books each get set up for their own revenue and compliance.
 
-### Professional Service Firms
-icon: Briefcase
+### No one to explain the numbers
+icon: Lightbulb
 
-Attorneys, advertising agencies, financial advisors, and consulting firms bill for expertise, not materials, which means revenue recognition, retainer tracking, and reasonable compensation planning look completely different from a trade business. Accord Advisors builds the accounting foundation around how your firm earns, ensuring entity structure, payroll elections, and revenue tracking are aligned before the first client engagement is billed.
+You get CFO-level insight at a fraction of the cost of a full-time controller.
 
-### Churches
-icon: Building2
+<!-- block: checklist-section | variant: standalone -->
+## What you get in the first 90 days
 
-Religious organizations starting new ministries or splitting from a parent congregation face nonprofit registration, clergy payroll rules, and compliance requirements unlike any for-profit business. Accord Advisors sets up the accounting foundation to keep that distinction clear from the very first deposit.
+- Entity structure recommendation, with self-employment tax, reasonable compensation, and liability compared side by side
+- Accounting system set up for your revenue: insurance reimbursements, job-based costs, retainers, or contributions
+- Federal EIN, Indiana state tax ID, withholding, and sales tax accounts
+- Payroll setup, including employer tax deposits and W-2/1099 tracking
+- Licensing renewal calendars for optometry, dental, and medical practices
+- Secure online platform access for you and your practice manager or partner
+
+<!-- block: intro-text | variant: centered -->
+## Built by a CPA who works with your kind of business
+
+Jared Hammack, CPA, leads the work. Accord Advisors is established in the greater Indianapolis area with offices in Bloomington and Avon, and serves optometry, dental, medical, service-based, and church clients across the United States through a secure online platform.
+
+<!-- block: process-steps | variant: horizontal -->
+## How we get you set up
+
+### Talk through your plans
+We learn your practice or business, your owners, and how you want to be paid.
+
+### Choose the structure
+We compare entity options and explain the trade-offs in plain language.
+
+### Build the system
+We set up your accounting system and payroll around how you earn.
+
+### Register and comply
+We work the licensing and registration checklist with you.
+
+### Review the numbers
+Within the first 30 days, you see how your bank balance connects to what you earn.
 
 <!-- block: faq-accordion -->
 ## Frequently Asked Questions About Business Foundation Services
@@ -95,18 +101,32 @@ A: The right structure depends on your liability exposure, number of owners, and
 A: Accord Advisors charges a fixed monthly fee based on your practice's size and complexity, not hourly billing. You know the cost before work begins, which makes budgeting easier during the unpredictable first year of a new optometry, dental, or medical practice.
 
 **Q: How long does it take to set up a new practice's accounting foundation?**
-A: Most new practices are fully set up, entity structure, bookkeeping system, payroll, and state registrations, within 60 to 90 days. Timing depends on how quickly licensing and banking pieces move on your end, but Accord Advisors keeps the checklist moving in parallel.
+A: Most new practices are fully set up, including entity structure, bookkeeping system, payroll, and state registrations, within 60 to 90 days. Timing depends on how quickly licensing and banking pieces move on your end, but Accord Advisors keeps the checklist moving in parallel.
 
 **Q: Do you work with practices outside Bloomington?**
-A: Yes. Accord Advisors serves new practice owners nationwide, with local roots in Bloomington, Avon, and the Indianapolis area of Indiana. Whether you're launching an optometry, dental, medical, service-based business, professional service firm, or church anywhere in the country, the same fixed monthly fee and secure online platform apply.
+A: Yes. Accord Advisors serves new owners nationwide, with offices in Bloomington and Avon and roots in the greater Indianapolis area. Whether you launch an optometry, dental, medical, service business, or church anywhere in the country, the same fixed monthly fee and secure online platform apply.
 
 **Q: What is the difference between a service-based business and a professional service provider?**
-A: Service-based businesses, such as HVAC companies, electricians, and plumbers, operate on job-based or project revenue with field crews, equipment costs, and contractor compliance considerations. Professional service providers, such as attorneys, advertising agencies, financial advisors, and consulting firms, bill for expertise and often manage retainer arrangements, trust accounts, or firm-level revenue splits. Accord Advisors sets up the accounting foundation for both, tailored to how each type of business actually earns and spends.
+A: Service-based businesses, such as HVAC companies, electricians, and plumbers, run on job-based revenue with field crews and equipment costs. Professional service providers, such as attorneys, agencies, financial advisors, and consultants, bill for expertise and manage retainers. Accord Advisors builds the accounting foundation around how each earns and spends.
+
+**Q: Why does the entity choice matter in the first 90 days?**
+A: Your entity sets tax treatment and liability protection for years. Changing later can mean extra filings, transition costs, and sometimes a higher tax bill. Indiana professional licensing rules affect which entity types are available to optometrists, dentists, and medical providers, and payroll treatment differs between an S-corp salary and a sole proprietor draw.
+
+**Q: What registrations and compliance items do you cover?**
+A: The launch checklist covers a federal EIN, Indiana state tax ID, Indiana Department of Revenue withholding and sales tax accounts, local business registration (including Bloomington and Indianapolis), payroll setup, workers' compensation and unemployment insurance coordination, and professional licensing renewal calendars.
+
+**Q: How is the accounting system set up for my type of practice?**
+A: We build your chart of accounts around your revenue. Healthcare practices track insurance reimbursements and patient copays, service businesses track job costs and crew payroll, professional firms track retainer and project revenue, and churches track contributions and ministry expenses. Separate revenue streams stay separate, so your numbers are usable.
+
+**Q: How do you help churches and new ministries?**
+A: Religious organizations starting a ministry or splitting from a parent congregation face nonprofit registration, clergy payroll rules, and compliance unlike a for-profit business. Accord Advisors sets up the accounting foundation to keep that distinction clear from the first deposit, including restricted and unrestricted fund tracking.
 
 <!-- block: cta-banner | variant: image-bg | image: consultation-handshake-office.jpg | alt: "Advisor and new practice owner shaking hands after a consultation meeting" | query: "handshake business meeting office" -->
 ## Let's build your foundation together
 
-The first few months of a new practice or business set the pattern for everything that follows: how you're taxed, how you track performance, how confidently you can grow. The Accord Advisors team has helped optometry, dental, medical, service-based business, professional service firm, and church clients nationwide, including Bloomington, Avon, and the Indianapolis area of Indiana, get that foundation right, one fixed monthly fee at a time. If you're planning a launch or already open and unsure whether the basics were handled correctly, schedule a consultation and let's walk through it together.
+Planning a launch, or already open and unsure the basics were handled correctly? Walk through it with an Accord Advisors CPA, at one fixed monthly fee.
+
+[Book a foundation review](/contact)
 
 ---
 ## SEO & AIO Metadata
