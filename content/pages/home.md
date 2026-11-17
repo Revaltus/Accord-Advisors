@@ -21,21 +21,32 @@ faq_block: [{"question":"What areas does Accord Advisors serve?","answer":"Accor
 llm_citation_note: "Accord Advisors replaces hourly billing with fixed monthly fees for outsourced accounting, serving optometry, dental, medical, service-based, professional services, and church clients nationwide, including Bloomington and the Indianapolis area (including Avon), Indiana."
 ---
 
-<!-- block: content-split | variant: image-right | image: bloomington-practice-consultation.jpg | alt: "CPA and optometry practice owner reviewing financial reports at a desk" | query: "accountant client consultation office" -->
+<!-- block: intro-text | variant: centered -->
 ## A CPA firm built around your practice or business
 
-Accord Advisors works with businesses and individuals across the country. Serving clients nationwide, the firm is established in the greater Indianapolis area with offices in Bloomington and Avon, Indiana. We function as an outsourced accounting department with the financial oversight and forward planning a full-time controller would provide, but without the salary or the hiring headache. The tailored services provided by Accord Advisors help a wide range of industries, while offering specialized expertise and knowledge for optometrists, dentists, medical professionals, service-based businesses, churches, and professional services providers.
+Accord Advisors works as your outsourced accounting department, with the financial oversight and forward planning a full-time controller would provide, without the salary or the hiring headache. We serve clients nationwide from the greater Indianapolis area, with offices in Bloomington and Avon, Indiana, and we know the billing cycles, staffing costs, and growth pressures of your industry.
 
-Whether you're an optometrist, a dentist, a physician group, a church administrator, or a service-based business owner looking for a CPA who actually understands your industry, Accord Advisors is built on exactly that depth. You need people who already understand your billing cycles, staffing costs, and growth pressures. That's the starting point for how we work.
-
-<!-- block: content-split | variant: image-left | image: financial-dashboard-review.jpg | alt: "Business owner viewing monthly financial dashboard on laptop screen" | query: "business owner reviewing financial dashboard laptop" -->
+<!-- block: feature-grid | variant: 3-col -->
 ## Know how your practice performed every single month
 
-Most owners can tell you how last year went. Fewer can tell you how last month went, and that gap costs money. Accord Advisors delivers financial reporting through a secure online platform, giving clients nationwide real-time access to the numbers that matter: revenue trends, expense categories, cash position, and the operational metrics tied to daily decisions.
+Most owners can tell you how last year went. Fewer can tell you how last month went. Our secure online platform gives clients nationwide real-time access to the numbers that matter.
 
-Instead of waiting on a year-end summary, you get dashboards updated on a schedule that matches how your practice or business actually runs. Decisions about staffing, equipment, or expansion get easier when you're not guessing where things stand. It's the visibility a controller would provide in-house, delivered without adding one to payroll.
+### Revenue trends
+icon: TrendingUp
 
-<!-- block: checklist-section | variant: with-image-right | image: fixed-fee-invoice-review.jpg | alt: "Accountant reviewing a flat monthly invoice with a small business client" | query: "accountant client reviewing invoice document" -->
+See what is growing and what is slipping, updated on a schedule that matches how your practice or business runs.
+
+### Expense categories
+icon: PieChart
+
+Know where the money goes, so decisions about staffing, equipment, or expansion are not guesses.
+
+### Cash position and key metrics
+icon: Wallet
+
+Track cash and the operational metrics tied to daily decisions, with a controller's visibility and no added payroll.
+
+<!-- block: checklist-section | variant: standalone -->
 ## Fixed monthly fees instead of surprise hourly bills
 
 Hourly billing turns every phone call into a math problem. Wondering whether a question is worth the fee keeps owners from picking up the phone, and that silence gets expensive when a decision actually needs a CPA's input. Accord Advisors works on fixed monthly fees set before the year starts, so the invoice never surprises you.
@@ -70,7 +81,7 @@ Entity setup, systems, and financial groundwork for startups and growing practic
 <!-- block: industry-cards | variant: 4-col | theme: ink -->
 ## Specialized support for the industries we know best
 
-Generalist firms handle a little of everything. Accord Advisors goes deep in five industries, and that focus shows up in the advice you get.
+Generalist firms handle a little of everything. Accord Advisors goes deep in six industries, and that focus shows up in the advice you get.
 
 ### Optometry Practices
 icon: Target
@@ -126,7 +137,7 @@ A: Outsourced accounting includes monthly bookkeeping, reconciliations, and fina
 
 Switching from hourly billing to a fixed-fee outsourced accounting relationship doesn't require an overhaul, just a conversation. Tell us where your practice or business stands today, and the Accord Advisors team will walk through what monthly reporting, tax planning, and advisory support would look like for you, whether you're in Bloomington, the Indianapolis area, or anywhere in the country.
 
-[Schedule a consultation](/locations)
+[Schedule a consultation with a CPA](/contact)
 
 ---
 ## SEO & AIO Metadata
