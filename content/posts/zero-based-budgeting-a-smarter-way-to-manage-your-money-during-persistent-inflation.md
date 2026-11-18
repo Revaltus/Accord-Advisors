@@ -20,9 +20,9 @@ image: accord-advisors-feature-2026-08-1-5-864.png
 <!-- block: content-prose -->
 ## Why traditional budgets break down when prices keep rising
 
-Most budgets start with last year's numbers and add a percentage for inflation. That worked fine when prices moved two percent a year. It stops working when a bag of exam-room supplies costs 18% more than it did in 2021, or when a hygienist's starting wage has climbed four dollars an hour since your last budget cycle.
+Most budgets start with last year's numbers and add a percentage for inflation. That worked fine when prices moved two percent a year. It stops working when a bag of exam-room supplies costs 18% more than it did last year, or when a hygienist's starting wage has climbed four dollars an hour since your last budget cycle.
 
-Practice owners and service business owners across Bloomington and Indianapolis are finding that last year's budget, adjusted upward, no longer reflects what things actually cost today. Rent renewals, payroll, insurance premiums, and vendor contracts have all moved independently of each other, and a flat percentage bump doesn't capture any of it.
+Practice owners and service business owners are finding that last year's budget, adjusted upward, no longer reflects what things actually cost today. Rent renewals, payroll, insurance premiums, and vendor contracts have all moved independently of each other, and a flat percentage bump doesn't capture any of it.
 
 Zero-based budgeting throws out the assumption that last year's numbers are a fair starting point. Every dollar gets justified from zero, every month, based on what your business actually needs right now. For a CPA firm working with optometry practices, dental offices, and service businesses managing rising costs on multiple fronts, that distinction matters.
 
@@ -84,8 +84,6 @@ Once the foundation is solid, the budget conversation gets real. Instead of hour
 
 A secure online platform gives clients access to current financial data whenever they want it, rather than waiting for a quarterly meeting. Business Foundation Services set up the chart of accounts, close process, and reporting structure a zero-based budget depends on, so the monthly rebuild is based on real numbers instead of estimates.
 
-Jared Hammack, CPA, has spent close to four decades working with healthcare providers and service businesses on exactly this kind of financial infrastructure, building budgets that hold up when costs keep moving.
-
 <!-- block: faq-accordion -->
 ## Frequently Asked Questions About Zero based budgeting a smarter way to manage your money during persistent inflation
 
@@ -102,8 +100,8 @@ A: Yes, but it depends on having accurate, current books to build from. Practice
 A: Accord Advisors builds zero-based budgeting into its outsourced accounting and Business Foundation Services for optometry practices, dental offices, medical professionals, service businesses, and churches in Bloomington and Indianapolis, working on a fixed monthly fee rather than hourly billing.
 
 <!-- block: cta-banner | variant: color-bg -->
-## Getting started with a smarter budget in Bloomington and Indianapolis
+## Getting started with a smarter budget
 
 Persistent inflation isn't going away on its own, and a budget built on last year's numbers won't tell you what's really happening in your practice or business this month. Zero-based budgeting works when it's built on accurate, current books, updated every month, by someone who understands healthcare and service-business finances specifically.
 
-Accord Advisors serves optometry practices, dental offices, medical professionals, service businesses, and churches throughout Bloomington and Indianapolis. Schedule a consultation to talk through what a zero-based budget would look like for your specific numbers, with no hourly clock running while you ask questions.
+Accord Advisors serves optometry practices, dental offices, medical professionals, service businesses, and churches throughout Bloomington, Avon, the greater Indianapolis area, and across the nation. Schedule a consultation to talk through what a zero-based budget would look like for your specific numbers.
