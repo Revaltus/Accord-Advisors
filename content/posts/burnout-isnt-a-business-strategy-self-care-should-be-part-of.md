@@ -4,7 +4,7 @@ slug: burnout-isnt-a-business-strategy-self-care-should-be-part-of
 date: 2026-08-26
 author: "Ryan Deckard"
 excerpt: "Exhaustion isn't just a health problem for business owners, it's a financial one. Learn why protecting your judgment through rest and delegation is a fiduciary-level decision, not a luxury."
-image: exhausted-business-owner-office-desk.jpg
+image: accord-advisors-burnout-isn-t-a-business-strategy.png
 image_alt: "Business owner resting at a desk with financial documents, representing burnout and the need for self-care in business ownership"
 tags: ["business owner wellness", "outsourced accounting", "sustainable growth"]
 meta_title: "Self-Care for Business Owners: A Financial Safeguard | Accord Advisors"
