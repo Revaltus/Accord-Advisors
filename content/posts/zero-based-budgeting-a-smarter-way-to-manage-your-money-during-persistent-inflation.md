@@ -25,7 +25,7 @@ Practice owners and service business owners across Bloomington and Indianapolis 
 
 Zero-based budgeting throws out the assumption that last year's numbers are a fair starting point. Every dollar gets justified from zero, every month, based on what your business actually needs right now. For a CPA firm working with optometry practices, dental offices, and service businesses managing rising costs on multiple fronts, that distinction matters.
 
-<!-- block: content-split | variant: image-right | image: zero-based-budget-planning.jpg | alt: "Business owner reviewing monthly budget spreadsheet on a laptop" | query: "small business owner reviewing budget laptop" -->
+<!-- block: content-prose -->
 ## How zero based budgeting works for your business or household
 
 Zero-based budgeting flips the traditional approach. Instead of starting with what you spent last year and adjusting it up or down, you start every month at zero and build the budget from scratch, dollar by dollar, based on what the business actually needs during that period.
@@ -61,7 +61,7 @@ icon: Building2
 
 Giving patterns shift with the seasons, and building maintenance or program costs rarely move in a straight line. Zero-based budgeting gives treasurers and finance committees a month-by-month picture that matches actual giving and actual need.
 
-<!-- block: checklist-section | variant: with-image | image: reviewing-financial-records.jpg | alt: "Accountant pointing out figures on a financial statement to a client" | query: "accountant reviewing financial statement with client" -->
+<!-- block: checklist-section | variant: standalone -->
 ## Common mistakes local business owners make when they try this alone
 
 Zero-based budgeting sounds simple in theory: start at zero, justify every dollar. In practice, business owners who try it without clean books underneath run into the same problems.
@@ -74,7 +74,7 @@ Zero-based budgeting sounds simple in theory: start at zero, justify every dolla
 
 Every one of these mistakes traces back to the same root cause: the underlying financials weren't accurate or current enough to build a real budget on top of them.
 
-<!-- block: content-split | variant: image-left | image: cpa-client-monthly-review.jpg | alt: "CPA and business owner reviewing monthly accounting reports on a tablet" | query: "CPA client meeting reviewing reports tablet" -->
+<!-- block: content-prose -->
 ## How Accord Advisors builds zero based budgeting into your monthly financial process
 
 Zero-based budgeting only works if the numbers underneath it are accurate and current. That piece gets built first, through outsourced accounting that keeps books closed and reconciled every month, not three months behind.
@@ -100,7 +100,7 @@ A: Yes, but it depends on having accurate, current books to build from. Practice
 **Q: Does Accord Advisors offer zero-based budgeting as part of its services?**
 A: Accord Advisors builds zero-based budgeting into its outsourced accounting and Business Foundation Services for optometry practices, dental offices, medical professionals, service businesses, and churches in Bloomington and Indianapolis, working on a fixed monthly fee rather than hourly billing.
 
-<!-- block: cta-banner | variant: image-bg | image: bloomington-indiana-office-consultation.jpg | alt: "CPA and business owner shaking hands after a consultation meeting" | query: "business owner CPA handshake consultation" -->
+<!-- block: cta-banner | variant: color-bg -->
 ## Getting started with a smarter budget in Bloomington and Indianapolis
 
 Persistent inflation isn't going away on its own, and a budget built on last year's numbers won't tell you what's really happening in your practice or business this month. Zero-based budgeting works when it's built on accurate, current books, updated every month, by someone who understands healthcare and service-business finances specifically.
