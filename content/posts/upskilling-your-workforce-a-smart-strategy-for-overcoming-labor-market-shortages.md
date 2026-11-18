@@ -33,14 +33,14 @@ The line gets blurrier when training prepares an employee for a different job or
 
 This is general information, not tax advice for your specific situation. Every practice and business has different facts, and the right treatment depends on what the training covers, who receives it, and how it's documented. That's a conversation worth having before tax season, not during it.
 
-<!-- block: content-split | variant: image-right | image: indiana-workforce-training-resources.jpg | alt: "Business owner reviewing state workforce development program materials at desk" | query: "business owner reviewing paperwork office" -->
+<!-- block: content-prose -->
 ## Indiana resources and credits that support employee development
 
 Indiana offers more support for workforce training than many employers realize. The Indiana Department of Workforce Development runs programs and grant opportunities designed to help employers train new and existing staff, and state lawmakers have periodically discussed expanding tax incentives tied to workforce credentialing.
 
 Knowing these programs exist is one thing. Applying them correctly to your specific practice or business, and making sure the numbers land where they should on your tax return, is another. We help Bloomington and Indianapolis-area business owners figure out which state programs actually apply to their situation, then make sure the accounting reflects it accurately so nothing gets left on the table at filing time.
 
-<!-- block: content-split | variant: image-left | image: clinical-staff-training-session.jpg | alt: "Dental hygienist training a new team member on sterilization equipment" | query: "medical staff training clinical setting" -->
+<!-- block: content-prose -->
 ## What this means for optometry, dental, and medical practices
 
 Clinical staffing is its own puzzle. [Optometry](/industries/optometry) practices need opticians and technicians who can handle new equipment and evolving insurance requirements. [Dental](/industries/dentists) offices depend on hygienists and assistants trained on current sterilization and billing standards. [Medical](/industries/medical-professionals) practices face similar pressure with clinical staff and front-desk teams who manage scheduling, coding, and patient intake.
@@ -49,7 +49,7 @@ Training an existing employee to take on a higher-skill role, cross-training fro
 
 We work with optometry, dental, and medical practices across Bloomington and Indianapolis to make sure training costs are categorized correctly from the start, not reconstructed at year-end.
 
-<!-- block: content-split | variant: image-right | image: service-business-team-training.jpg | alt: "Service business owner training staff on new equipment in workshop" | query: "trade worker training equipment shop" -->
+<!-- block: content-prose -->
 ## What this means for service businesses and churches
 
 Service businesses face a different version of the same problem: skilled trades and technical roles that take months to fill from outside. Training current employees on new equipment, safety protocols, or licensing requirements is often faster and cheaper than hiring, and the costs are typically deductible when properly documented.
@@ -58,7 +58,7 @@ Churches carry an added layer. Paid staff training, such as bookkeeping software
 
 Getting the distinction right protects a church's tax-exempt status and keeps the books audit-ready. Learn more about staffing considerations for [churches](/industries/churches) or explore support for [service businesses](/industries/service-businesses).
 
-<!-- block: checklist-section | variant: with-image | image: outsourced-accounting-dashboard-review.jpg | alt: "Accountant reviewing financial dashboard on laptop with client remotely" | query: "accountant reviewing financial dashboard laptop" -->
+<!-- block: checklist-section | variant: standalone -->
 ## How outsourced accounting keeps your training investment tax-ready
 
 Training expenses only produce a tax benefit if they're captured correctly throughout the year, not reconstructed from receipts in April. [Outsourced accounting](/services/outsourced-accounting) through Accord Advisors tracks these costs as they happen, for a fixed monthly fee, through a secure online platform you can check anytime.
@@ -86,7 +86,7 @@ A: Outsourced accounting through Accord Advisors codes training costs correctly 
 **Q: Can churches deduct training costs for paid staff?**
 A: Generally, yes, training for paid employees is treated like any other legitimate business expense. Volunteer training typically isn't deductible the same way, so separating paid staff costs from volunteer-related spending in your books is essential for accurate reporting.
 
-<!-- block: cta-banner | variant: image-bg | image: bloomington-cpa-consultation.jpg | alt: "CPA advisor shaking hands with business owner in bright office" | query: "cpa advisor meeting business owner" -->
+<!-- block: cta-banner | variant: color-bg -->
 ## Talk to a Bloomington CPA about your workforce strategy
 
 Jared Hammack, CPA, and the Accord Advisors team work with optometry practices, dental and medical offices, service businesses, and churches across Bloomington and Indianapolis to turn workforce training into a real tax advantage, not just a line item. If you're weighing whether to train existing staff or hire, or you want a second look at how your practice handles training deductions, a short conversation can clarify both.
