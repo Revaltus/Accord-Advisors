@@ -4,7 +4,7 @@ slug: why-tax-advantaged-planning-is-the-real-defense-against-medi
 date: 2026-08-26
 author: "Ryan Deckard"
 excerpt: "An emergency fund only buys time. HSAs, itemized medical deductions, and FSAs actually reduce what a medical crisis costs you in taxes and dollars."
-image: hsa-medical-bills-tax-planning.jpg
+image: adobestock-1029847724.jpeg
 image_alt: "Person reviewing medical bills and financial paperwork at a kitchen table"
 tags: ["Tax Planning", "Personal Finance", "HSA", "Medical Expenses"]
 meta_title: "How to Plan for Unexpected Medical Expenses | Accord Advisors"
