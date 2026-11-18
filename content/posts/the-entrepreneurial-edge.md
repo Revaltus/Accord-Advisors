@@ -24,7 +24,7 @@ Running a practice or a service business in Bloomington takes more than good ins
 
 Accord Advisors works with business owners, practice managers, and church leaders across Bloomington and Indianapolis who want a financial advisor who shows up before tax season, not just during it. Jared Hammack, CPA, built the firm's approach around proactive guidance: monthly clarity, not year-end surprises. That's the entrepreneurial edge we bring to every client relationship, whether you're running an optometry practice on the west side or a growing service business downtown.
 
-<!-- block: content-split | variant: image-right | image: business-owner-reviewing-dashboard.jpg | alt: "Business owner reviewing financial dashboard on a laptop in an office" | query: "small business owner reviewing financial dashboard" -->
+<!-- block: content-prose -->
 ## Real-time insight into how your business is performing
 
 Most business owners don't lie awake worrying about their tax return. They lie awake wondering if last month was actually profitable, whether payroll is sustainable at current volume, or why cash feels tight when the appointment book is full. That gap between activity and understanding is where a lot of financial stress lives.
@@ -33,7 +33,7 @@ Accord Advisors closes that gap with outsourced accounting delivered through a s
 
 That means fewer year-end surprises and more decisions made with actual information. If you're an optometry practice manager trying to plan for a new associate, or a service business owner deciding whether to add a second crew, you need this month's numbers, not last quarter's. Fixed monthly fees mean you can ask questions as often as you need to without watching a meter run.
 
-<!-- block: checklist-section | variant: with-image | image: new-business-setup-meeting.jpg | alt: "Advisor and new business owner reviewing startup paperwork at a desk" | query: "new business owner consultation paperwork" -->
+<!-- block: checklist-section | variant: standalone -->
 ## Building a strong financial foundation from day one
 
 The decisions you make in a business's first year, entity structure, bookkeeping systems, payroll setup, follow you for a decade. Fix them later and you're often paying twice: once for the original mistake, once for the cleanup.
@@ -77,14 +77,14 @@ icon: Building
 
 Staffing compliance, restricted fund tracking, and the reporting a board or congregation expects to see. Nonprofit accounting has its own rules, and they matter.
 
-<!-- block: content-split | variant: image-left | image: cpa-reviewing-fixed-fee-agreement.jpg | alt: "CPA and client reviewing a fixed fee service agreement in an office" | query: "accountant client meeting discussing agreement" -->
+<!-- block: content-prose -->
 ## Fixed fees so you always know what to expect
 
 Hourly billing creates a strange incentive: every phone call, every quick question, adds to a bill you can't predict. Business owners learn to stop calling, which means problems surface later and cost more to fix.
 
 Accord Advisors bills flat monthly fees instead. You know the cost of outsourced accounting before the month starts, and you can call with a question about payroll, a new hire, or a tax notice without doing mental math about what it's costing you. That predictability is what turns a CPA relationship into an actual advisory relationship, one where you get CFO-level insight at a fraction of what an in-house hire would cost, without the invoice anxiety.
 
-<!-- block: content-split | variant: image-right | image: bloomington-indiana-storefront.jpg | alt: "Small business storefront on a Bloomington, Indiana street" | query: "downtown Bloomington Indiana small business street" -->
+<!-- block: content-prose -->
 ## Serving Bloomington, Indianapolis, and beyond
 
 Accord Advisors is based in Bloomington and works with clients throughout Indianapolis and Avon, Indiana. Local presence matters when you want a CPA who understands Indiana filing requirements and can meet in person when it counts.
@@ -106,7 +106,7 @@ A: Fixed monthly fees mean you know the cost of outsourced accounting before the
 **Q: What industries does Accord Advisors specialize in?**
 A: The firm focuses on optometry practices, dental practices, medical professionals, service businesses, and churches, backed by nearly 40 years of experience serving healthcare providers specifically.
 
-<!-- block: cta-banner | variant: image-bg | image: consultation-handshake-office.jpg | alt: "Advisor and business owner shaking hands after a consultation meeting" | query: "business consultation handshake office meeting" -->
+<!-- block: cta-banner | variant: color-bg -->
 ## Take the next step toward financial clarity
 
 You didn't start a practice or a business to spend evenings untangling spreadsheets. Accord Advisors handles the accounting so you can focus on patients, clients, or your congregation, with a CPA who already understands the industry you're in.
