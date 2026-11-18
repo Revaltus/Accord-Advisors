@@ -69,4 +69,4 @@ None of this requires guessing. It requires someone who looks at your specific i
 
 **Is an FSA worth it if my employer also offers an HSA**?Usually not both at once. IRS rules generally prevent contributing to a full HSA and a full-purpose FSA in the same year if you're on a high-deductible plan, though a limited-purpose FSA for dental and vision expenses is often allowed alongside an HSA. Which combination makes sense depends on your plan design, so it's worth confirming before enrollment season.
 
-If a medical bill has already hit, or you want a contribution and deduction strategy in place before the next one does, [contact our team](/locations) and we'll walk through the numbers with you.
+If a medical bill has already hit, or you want a contribution and deduction strategy in place before the next one does, [contact Accord Advisors team](/locations) and we'll walk through the numbers with you.
