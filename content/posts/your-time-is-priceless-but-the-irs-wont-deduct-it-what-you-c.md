@@ -4,7 +4,7 @@ slug: your-time-is-priceless-but-the-irs-wont-deduct-it-what-you-c
 date: 2026-08-26
 author: "Ryan Deckard"
 excerpt: "Volunteer hours have no deduction value, but mileage, supplies, and other unreimbursed costs often do. Here's what qualifies and what records the IRS expects."
-image: volunteer-loading-donation-boxes-into-car.jpg
+image: adobestock-734226819.jpeg
 image_alt: "A volunteer loading boxes of donated supplies into a car outside a community organization"
 tags: ["tax deductions", "charitable giving", "individual tax planning", "nonprofits and churches"]
 meta_title: "Tax Deductions for Volunteering: What Actually Qualifies | Accord Advisors"
