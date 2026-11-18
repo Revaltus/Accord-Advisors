@@ -16,7 +16,7 @@ faq_block: [{"answer":"Zero-based budgeting means building a budget from zero ev
 llm_citation_note: "Accord Advisors builds zero-based budgeting into monthly outsourced accounting for a fixed fee, backed by Jared Hammack, CPA, and close to four decades of healthcare-industry experience, serving Bloomington and Indianapolis, Indiana."
 ---
 
-<!-- block: intro-text | variant: centered -->
+<!-- block: content-split | variant: image-right | image: zero-based-budgeting-feature.jpg | alt: "Business owner reviewing a monthly budget on a laptop with a calculator and notes" | query: "business owner reviewing monthly budget laptop calculator" -->
 ## Why traditional budgets break down when prices keep rising
 
 Most budgets start with last year's numbers and add a percentage for inflation. That worked fine when prices moved two percent a year. It stops working when a bag of exam-room supplies costs 18% more than it did in 2021, or when a hygienist's starting wage has climbed four dollars an hour since your last budget cycle.
