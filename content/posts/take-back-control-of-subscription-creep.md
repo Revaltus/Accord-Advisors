@@ -4,7 +4,7 @@ slug: take-back-control-of-subscription-creep
 date: 2026-08-25
 author: "Ryan Deckard"
 excerpt: "Recurring subscriptions quietly drain thousands a year from households and practices alike. Here's how to audit them like any other budget line item, not a minor annoyance."
-image: reviewing-bills-and-statements-at-desk.jpg
+image: adobestock-908327219.jpeg
 image_alt: "Person reviewing monthly bank statements and receipts at a desk to spot recurring subscription charges"
 tags: ["budgeting", "outsourced accounting", "expense management"]
 meta_title: "Subscription Creep: How to Audit Recurring Costs | Accord Advisors"
