@@ -4,7 +4,7 @@ slug: unless-its-working-for-you-your-dog-isnt-a-tax-deduction
 date: 2026-08-25
 author: "Ryan Deckard"
 excerpt: "Most pet expenses aren't deductible, but service dogs, guard dogs, and working animals sometimes qualify. Here's where the IRS actually draws the line."
-image: guard-dog-warehouse-business.jpg
+image: adobestock-370525356.jpeg
 image_alt: "A guard dog sitting at the entrance of a small business warehouse, representing legitimate business dog tax deductions"
 tags: ["Tax Deductions", "Small Business Tax", "Outsourced Accounting"]
 meta_title: "Dog Care Tax Deduction: When Pet Costs Qualify"
