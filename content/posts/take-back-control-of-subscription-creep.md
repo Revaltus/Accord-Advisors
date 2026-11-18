@@ -4,7 +4,7 @@ slug: take-back-control-of-subscription-creep
 date: 2026-08-25
 author: "Ryan Deckard"
 excerpt: "Recurring subscriptions quietly drain thousands a year from households and practices alike. Here's how to audit them like any other budget line item, not a minor annoyance."
-image: reviewing-bills-and-statements-at-desk.jpg
+image: adobestock-908327219.jpeg
 image_alt: "Person reviewing monthly bank statements and receipts at a desk to spot recurring subscription charges"
 tags: ["budgeting", "outsourced accounting", "expense management"]
 meta_title: "Subscription Creep: How to Audit Recurring Costs | Accord Advisors"
@@ -17,7 +17,7 @@ answer_block: "Subscription creep is the gradual accumulation of forgotten or un
 ---
 Subscription creep rarely announces itself. A $9.99 software trial turns into a $40 monthly charge nobody remembers approving. A gym membership nobody uses anymore sits on the same card as your practice's payroll software. Multiply that by a household or a small business with a dozen vendors, and the leak becomes real money, month after month, without a single conscious decision behind it.
 
-We treat subscription creep the same way we treat any other line item on a client's books: something that needs a number, a name, and a decision, not a shrug. Accord Advisors has spent nearly 40 years helping optometry practices, dental offices, service businesses, and churches in Bloomington and Indianapolis keep close watch on recurring costs that quietly outgrow their usefulness. The fix isn't complicated. It just requires the same discipline you'd apply to payroll or rent.
+We treat subscription creep the same way we treat any other line item on a client's books: something that needs a number, a name, and a decision, not a shrug. Accord Advisors helps optometry practices, dental offices, service businesses, and churches keep close watch on recurring costs that quietly outgrow their usefulness. The fix isn't complicated. It just requires the same discipline you'd apply to payroll or rent.
 
 ## Why recurring charges are easy to lose track of
 

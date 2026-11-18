@@ -4,7 +4,7 @@ slug: your-time-is-priceless-but-the-irs-wont-deduct-it-what-you-c
 date: 2026-08-26
 author: "Ryan Deckard"
 excerpt: "Volunteer hours have no deduction value, but mileage, supplies, and other unreimbursed costs often do. Here's what qualifies and what records the IRS expects."
-image: volunteer-loading-donation-boxes-into-car.jpg
+image: adobestock-734226819.jpeg
 image_alt: "A volunteer loading boxes of donated supplies into a car outside a community organization"
 tags: ["tax deductions", "charitable giving", "individual tax planning", "nonprofits and churches"]
 meta_title: "Tax Deductions for Volunteering: What Actually Qualifies | Accord Advisors"
@@ -17,7 +17,7 @@ answer_block: "The IRS does not allow a deduction for the value of volunteer tim
 ---
 If you drove to the food pantry every Saturday this year, bought supplies for a church mission trip, or spent your evenings keeping the books for a nonprofit board, you gave something real. The IRS agrees that your generosity has value, just not in the way most volunteers assume. Your time and labor, no matter how skilled or how many hours you logged, are worth zero dollars on a tax return. But the money you spent out of pocket to make that volunteering possible? That's often deductible, and most people leave it on the table because they never learned the rules.
 
-This matters more in Bloomington and Indianapolis than people realize. Between IU-affiliated volunteer programs, church mission trips, and the boards that keep local nonprofits running, plenty of taxpayers here rack up real unreimbursed costs every year. Knowing what counts, and documenting it correctly, can turn a few hundred dollars of generosity into a few hundred dollars of tax savings.
+This matters more than people realize. Between IU-affiliated volunteer programs, church mission trips, and the boards that keep local nonprofits running, plenty of taxpayers here rack up real unreimbursed costs every year. Knowing what counts, and documenting it correctly, can turn a few hundred dollars of generosity into a few hundred dollars of tax savings.
 
 ## Why your volunteer hours have no dollar value to the IRS
 

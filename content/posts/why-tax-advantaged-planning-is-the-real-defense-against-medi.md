@@ -4,7 +4,7 @@ slug: why-tax-advantaged-planning-is-the-real-defense-against-medi
 date: 2026-08-26
 author: "Ryan Deckard"
 excerpt: "An emergency fund only buys time. HSAs, itemized medical deductions, and FSAs actually reduce what a medical crisis costs you in taxes and dollars."
-image: hsa-medical-bills-tax-planning.jpg
+image: adobestock-1029847724.jpeg
 image_alt: "Person reviewing medical bills and financial paperwork at a kitchen table"
 tags: ["Tax Planning", "Personal Finance", "HSA", "Medical Expenses"]
 meta_title: "How to Plan for Unexpected Medical Expenses | Accord Advisors"
@@ -69,4 +69,4 @@ None of this requires guessing. It requires someone who looks at your specific i
 
 **Is an FSA worth it if my employer also offers an HSA**?Usually not both at once. IRS rules generally prevent contributing to a full HSA and a full-purpose FSA in the same year if you're on a high-deductible plan, though a limited-purpose FSA for dental and vision expenses is often allowed alongside an HSA. Which combination makes sense depends on your plan design, so it's worth confirming before enrollment season.
 
-If a medical bill has already hit, or you want a contribution and deduction strategy in place before the next one does, [contact our team](/locations) and we'll walk through the numbers with you.
+If a medical bill has already hit, or you want a contribution and deduction strategy in place before the next one does, [contact Accord Advisors team](/locations) and we'll walk through the numbers with you.

@@ -4,7 +4,7 @@ slug: how-to-turn-a-second-home-into-a-tax-win
 date: 2026-08-25
 author: "Ryan Deckard"
 excerpt: "How you use your second home, not just how you finance it, determines whether the IRS treats it as a tax-free getaway, a limited deduction, or a full rental business. A Bloomington CPA breaks down the rules."
-image: lake-house-dock-vacation-property.jpg
+image: adobestock-219730431-copy.jpeg
 image_alt: "A lakeside vacation home with a dock, representing a second home weighed for rental versus personal use tax treatment"
 tags: ["Personal Tax", "Real Estate", "Tax Planning"]
 meta_title: "Second Home Tax Rules: A CPA's Guide | Accord Advisors"
@@ -45,7 +45,7 @@ Lenders, insurers, and the IRS all draw a line between a "second home" and an "i
 
 That distinction changes how mortgage interest gets deducted. On a qualified second home, mortgage interest is deductible on Schedule A, combined with your primary residence up to the $750,000 acquisition debt limit. On a straight investment property, mortgage interest is instead deducted as a rental expense against rental income, with no cap tied to the $750,000 threshold. Depreciation is only available once the property crosses into rental-property territory, not while it's classified as a personal residence with occasional rental use.
 
-This is where a lot of well-intentioned owners get tripped up. They buy a property planning to rent it heavily, use it themselves more than they expected, and end up with a hybrid tax picture they never modeled for. Before you sign, it's worth running the numbers both ways, and [our team has walked clients through exactly this kind of pre-purchase modeling](/resources/selling-a-business-rental-or-large-asset-this-year-call-your-cpa-before-you-sign) on rental and investment property decisions.
+This is where a lot of well-intentioned owners get tripped up. They buy a property planning to rent it heavily, use it themselves more than they expected, and end up with a hybrid tax picture they never modeled for. Before you sign, it's worth running the numbers both ways.
 
 ## Building a record that survives an audit
 
