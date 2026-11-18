@@ -87,8 +87,8 @@ A: Outsourced accounting through Accord Advisors codes training costs correctly 
 A: Generally, yes, training for paid employees is treated like any other legitimate business expense. Volunteer training typically isn't deductible the same way, so separating paid staff costs from volunteer-related spending in your books is essential for accurate reporting.
 
 <!-- block: cta-banner | variant: color-bg -->
-## Talk to a Bloomington CPA about your workforce strategy
+## Talk to us about your workforce strategy
 
-Jared Hammack, CPA, and the Accord Advisors team work with optometry practices, dental and medical offices, service businesses, and churches across Bloomington and Indianapolis to turn workforce training into a real tax advantage, not just a line item. If you're weighing whether to train existing staff or hire, or you want a second look at how your practice handles training deductions, a short conversation can clarify both.
+The Accord Advisors team works with optometry practices, dental and medical offices, service businesses, and churches across the nation to turn workforce training into a real tax advantage, not just a line item. If you're weighing whether to train existing staff or hire, or you want a second look at how your practice handles training deductions, a short conversation can clarify both.
 
 [Schedule a consultation](/locations) and find out what your training investment could mean for your next tax return.
