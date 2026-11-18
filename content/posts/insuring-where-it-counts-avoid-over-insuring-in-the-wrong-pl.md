@@ -17,7 +17,7 @@ answer_block: "How much insurance coverage you need depends on quantifiable expo
 ---
 Most insurance content reads like a shopping list: here's term life, here's disability, here's an umbrella policy, buy all three and sleep well. That advice ignores the only question that matters. How much of your net worth, your income, or your practice's revenue is actually exposed if something goes wrong? Insurance isn't a virtue you accumulate. It's a hedge against a specific, calculable loss, and once you size that loss correctly, the right coverage amount usually becomes obvious.
 
-We see this misstep constantly with optometry and dental practice owners in Bloomington and Indianapolis: a $400,000 umbrella policy sitting next to a malpractice tail gap that could actually bankrupt the practice, or a life insurance policy sized for someone's income in 2015 that never got updated after two kids and a mortgage refinance. The fix isn't more insurance. It's insurance matched to the number that's actually at risk.
+Keep track of your coverage to avoid a misstep with your business or personal policies: a $400,000 umbrella policy sitting next to a malpractice tail gap that could actually bankrupt the practice, or a life insurance policy sized for someone's income in 2015 that never got updated after two kids and a mortgage refinance. The fix isn't more insurance. It's insurance matched to the number that's actually at risk.
 
 ## Insurance is a math problem, not a checklist
 
