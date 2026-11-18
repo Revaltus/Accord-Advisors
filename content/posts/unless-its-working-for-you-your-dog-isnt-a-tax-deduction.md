@@ -15,7 +15,7 @@ canonical_url: https://accordadvisors.com/resources/unless-its-working-for-you-y
 schema_markup: "FAQPage"
 answer_block: "Most dog-related expenses are personal and not deductible, but the IRS allows exceptions for trained service or guide dogs (deductible as medical expenses under Publication 502) and for dogs with a documented business function, like guard dogs or breeding kennels (deductible as business expenses under Publication 535)."
 ---
-A client called our office last spring convinced she could write off her golden retriever's grooming bills because the dog "greets patients" in her optometry practice's waiting room. She's not alone. Every tax season, Bloomington and Indianapolis business owners ask some version of the same question: can I deduct my dog? The honest answer is almost always no, but the narrow exceptions are real, specific, and worth understanding if your dog actually does a job for your business or your health.
+Can you write off your golden retriever's grooming bills because the dog "greets patients" in your optometry practice's waiting room? Every tax season, business owners ask some version of the same question: can I deduct my dog? The honest answer is almost always no, but the narrow exceptions are real, specific, and worth understanding if your dog actually does a job for your business or your health.
 
 This isn't a loophole hunt. It's about knowing where the IRS draws a real line between a beloved pet and a working animal with a documented business or medical function.
 
@@ -65,24 +65,20 @@ Every legitimate dog-related deduction we've described shares three requirements
 | Therapy dog used personally for comfort | Generally no | Not deductible |
 | Therapy dog business providing paid facility visits | Yes, as business expense | Schedule C |
 
-If a dog splits its time, say, a guard dog that also lives in the family house, only the portion of costs tied to the business use holds up under audit. That's the same allocation logic we walk clients through on vehicle expenses in our piece on [leasing versus buying a car](/resources/auto-leasing-vs-buying-which-makes-more-sense): mixed-use assets require mixed-use math, and the IRS expects you to show your work.
+If a dog splits its time, say, a guard dog that also lives in the family house, only the portion of costs tied to the business use holds up under audit. 
 
-For optometry and dental practices we work with around Bloomington and Indianapolis, this question usually comes up alongside bigger foundational decisions, entity structure, reasonable compensation, what counts as a legitimate practice expense. Those are exactly the kinds of judgment calls our [Business Foundation Services](/industries/dentists) and outsourced accounting work are built to catch before they become an audit problem. Jared Hammack, CPA, reviews these calls the same way for a service business in Avon as he does for a medical practice near downtown Bloomington: what's the documented business purpose, and does the paper trail support it?
+Questions about deductions usually come up alongside bigger foundational decisions, entity structure, reasonable compensation, and what counts as a legitimate practice expense. Those are exactly the kinds of judgment calls our [Business Foundation Services](/industries/dentists) and outsourced accounting work are built to catch before they become an audit problem. 
 
-If your practice or service business is weighing a deduction that feels like a stretch, that's usually the moment to ask before you file, not after. Our [outsourced accounting clients](/resources/spring-into-smarter-decisions) get that kind of second opinion built into the monthly relationship, not billed by the hour.
+If your practice or service business is weighing a deduction that feels like a stretch, ask before you file, not after. Our [outsourced accounting clients](/resources/spring-into-smarter-decisions) get that kind of second opinion built into the monthly relationship, not billed by the hour.
 
 ## Common Questions
 
-**Can I deduct my dog as a business expense if it just hangs out at my office?**
-No. A dog present in a workplace without a documented function, security, therapy services performed for pay, or a similar defined role, doesn't meet the ordinary-and-necessary standard in [IRS Publication 535](https://www.irs.gov/publications/p535). The IRS looks for a specific business purpose, not ambient morale benefits.
+**Can I deduct my dog as a business expense if it just hangs out at my office**?No. A dog present in a workplace without a documented function, security, therapy services performed for pay, or a similar defined role, doesn't meet the ordinary-and-necessary standard in [IRS Publication 535](https://www.irs.gov/publications/p535). The IRS looks for a specific business purpose, not ambient morale benefits.
 
-**Is a service animal tax deductible if I don't itemize?**
-No. Service animal costs fall under medical expenses on Schedule A, which only helps if your itemized deductions exceed the standard deduction and your total medical costs clear 7.5% of adjusted gross income, per [Publication 502](https://www.irs.gov/publications/p502). If you take the standard deduction, the service animal costs provide no separate tax benefit that year.
+**Is a service animal tax deductible if I don't itemize**?No. Service animal costs fall under medical expenses on Schedule A, which only helps if your itemized deductions exceed the standard deduction and your total medical costs clear 7.5% of adjusted gross income, per [Publication 502](https://www.irs.gov/publications/p502). If you take the standard deduction, the service animal costs provide no separate tax benefit that year.
 
-**What records do I need to support a guard dog business expense?**
-Keep proof of the dog's training or role, receipts for food and veterinary care, and documentation tying the dog to a specific business location, like a lease or property record for a warehouse or storage yard. A dog living in your personal residence without a clear commercial security function is a much harder case to defend.
+**What records do I need to support a guard dog business expense**?Keep proof of the dog's training or role, receipts for food and veterinary care, and documentation tying the dog to a specific business location, like a lease or property record for a warehouse or storage yard. A dog living in your personal residence without a clear commercial security function is a much harder case to defend.
 
-**Does a therapy dog qualify for any deduction at all?**
-Only if the dog is part of a for-profit service, such as a business that contracts with schools or care facilities for paid visits. Personal use of a therapy dog for comfort, without a business generating income from its use, doesn't qualify under either Publication 502 or 535.
+**Does a therapy dog qualify for any deduction at all**?Only if the dog is part of a for-profit service, such as a business that contracts with schools or care facilities for paid visits. Personal use of a therapy dog for comfort, without a business generating income from its use, doesn't qualify under either Publication 502 or 535.
 
 If you're not sure which side of that line your situation falls on, or you want a practice-specific answer before you claim anything on this year's return, [contact Accord Advisors](/locations) and we'll walk through it together.
