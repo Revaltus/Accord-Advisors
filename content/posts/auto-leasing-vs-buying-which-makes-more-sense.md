@@ -4,8 +4,8 @@ slug: auto-leasing-vs-buying-which-makes-more-sense
 date: 2026-08-24
 author: "Ryan Deckard"
 excerpt: "Dealership pitches focus on monthly payments. A CPA's view weighs tax deductions, cash flow, and driving habits to show which option, leasing or buying, actually saves you more."
-image: business-owner-reviewing-car-options.jpg
-image_alt: "Business owner reviewing lease and purchase paperwork for a vehicle at a desk"
+image: adobestock-470524540.jpeg
+image_alt: "Hand on car door "
 tags: ["Tax Planning", "Business Vehicles", "Small Business"]
 meta_title: "Lease vs Buy a Car: CPA Guide to Taxes & Cash Flow"
 meta_description: "Deciding to lease or buy a car? A Bloomington, IN CPA breaks down Section 179 deductions, cash flow, and mileage to help you choose with confidence."
