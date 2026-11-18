@@ -4,7 +4,7 @@ slug: insuring-where-it-counts-avoid-over-insuring-in-the-wrong-pl
 date: 2026-08-25
 author: "Ryan Deckard"
 excerpt: "Insurance decisions should follow the math of your net worth and cash flow, not a generic checklist. A Bloomington CPA breaks down how to size personal and practice coverage correctly."
-image: financial-documents-and-calculator-on-desk.jpg
+image: adobestock-506927839.jpeg
 image_alt: "Person reviewing financial documents and calculating insurance coverage needs at a desk"
 tags: ["Financial Planning", "Risk Management", "Business Foundation Services"]
 meta_title: "How Much Insurance Coverage Do You Need? | Accord Advisors Bloomington, IN"
