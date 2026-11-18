@@ -4,7 +4,7 @@ slug: strategically-balancing-your-investment-portfolio-why-set-it
 date: 2026-08-24
 author: "Ryan Deckard"
 excerpt: "A balanced investment portfolio drifts more than most investors realize, and rebalancing without a tax strategy can cost you as much as ignoring it. Here's how to do both right."
-image: portfolio-review-meeting-with-advisor.jpg
+image: adobestock-306451078.jpeg
 image_alt: "Financial advisor and client reviewing investment portfolio statements at a desk"
 tags: ["Personal Tax Planning", "Investment Strategy", "Financial Planning"]
 meta_title: "Balanced Investment Portfolio: Why Rebalancing Matters"
