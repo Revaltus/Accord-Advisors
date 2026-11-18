@@ -59,22 +59,18 @@ This benefit gets missed constantly. Families assume VA benefits mean disability
 
 Long-term care insurance premiums are often deductible as a medical expense, subject to age-based limits and the 7.5% adjusted gross income threshold, and [tax-advantaged planning strategies](/resources/why-tax-advantaged-planning-is-the-real-defense-against-medi) can help qualified long-term care services reduce your overall costs. [IRS Publication 502](https://www.irs.gov/publications/p502) lays out exactly which long-term care premiums and services count as deductible medical expenses, including the age-based premium caps that increase as you get older. That's a detail worth reviewing with a CPA each year, since the deductible premium limit changes annually and most people never check it.
 
-For business owners, there's an added angle: a properly structured C-corporation can deduct 100% of long-term care insurance premiums for owners and employees as a business expense, a strategy that's often overlooked because it sits at the intersection of tax planning and estate planning, two areas that don't always get discussed together. If you're weighing a major asset sale, a practice transition, or a change in entity structure in the next few years, it's worth reading [why you should call your CPA before signing on a business, rental, or large asset sale](/resources/selling-a-business-rental-or-large-asset-this-year-call-your-cpa-before-you-sign), since the timing of a long-term care insurance purchase often overlaps with those bigger financial decisions.
+For business owners, there's an added angle: a properly structured C-corporation can deduct 100% of long-term care insurance premiums for owners and employees as a business expense, a strategy that's often overlooked because it sits at the intersection of tax planning and estate planning, two areas that don't always get discussed together.
 
 Accord Advisors works with clients on exactly this kind of layered planning, where a long-term care decision touches tax deductions, portfolio rebalancing, and estate goals at the same time. It's rarely a single-decision problem, which is why it gets postponed so often.
 
 ## Common Questions
 
-**How much does long-term care insurance cost at age 60?**
-A healthy 60-year-old typically pays $2,800 to $4,500 a year for a policy with $200,000 to $300,000 of lifetime benefit and a 3% inflation rider. Premiums vary based on health history, gender, and whether you buy an individual or shared-care policy with a spouse.
+**How much does long-term care insurance cost at age 60**?A healthy 60-year-old typically pays $2,800 to $4,500 a year for a policy with $200,000 to $300,000 of lifetime benefit and a 3% inflation rider. Premiums vary based on health history, gender, and whether you buy an individual or shared-care policy with a spouse.
 
-**Can I get VA Aid and Attendance benefits and long-term care insurance at the same time?**
-Yes. VA benefits and private long-term care insurance aren't mutually exclusive, and combining them often covers a larger share of in-home or facility care costs than either would alone. The VA benefit is based on net worth and income limits, not on whether you carry other insurance.
+**Can I get VA Aid and Attendance benefits and long-term care insurance at the same time**?Yes. VA benefits and private long-term care insurance aren't mutually exclusive, and combining them often covers a larger share of in-home or facility care costs than either would alone. The VA benefit is based on net worth and income limits, not on whether you carry other insurance.
 
-**Is self-funding long-term care ever the better choice?**
-It can be, particularly for business owners and high-net-worth individuals with $2 million or more in investable assets who can absorb care costs without disrupting retirement income. The tradeoff is that the money has to be genuinely set aside and invested for this purpose, not counted twice in a retirement plan.
+**Is self-funding long-term care ever the better choice**?It can be, particularly for business owners and high-net-worth individuals with $2 million or more in investable assets who can absorb care costs without disrupting retirement income. The tradeoff is that the money has to be genuinely set aside and invested for this purpose, not counted twice in a retirement plan.
 
-**Does long-term care insurance count as a tax deduction?**
-Often, yes. Premiums are deductible as a medical expense up to age-based limits set by the IRS, and C-corporations can deduct premiums for owners and employees as a business expense in many structures. [IRS Publication 502](https://www.irs.gov/publications/p502) has the current premium limits by age.
+**Does long-term care insurance count as a tax deduction**?Often, yes. Premiums are deductible as a medical expense up to age-based limits set by the IRS, and C-corporations can deduct premiums for owners and employees as a business expense in many structures. [IRS Publication 502](https://www.irs.gov/publications/p502) has the current premium limits by age.
 
 Long-term care is one of those costs that's easy to postpone thinking about and expensive to ignore. If you want to look at how insurance, VA benefits, and your existing savings and tax plan fit together for your specific situation, [contact Accord Advisors](/locations) and we'll walk through it with you.
