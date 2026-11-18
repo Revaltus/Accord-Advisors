@@ -4,7 +4,7 @@ slug: business-credit-card-rewards-a-financial-strategy-for-busine
 date: 2026-08-25
 author: "Ryan Deckard"
 excerpt: "Business credit card rewards can offset real overhead, but only if the card matches your actual spending. A Bloomington, IN CPA breaks down the tax rules and how to choose wisely."
-image: business-owner-reviewing-credit-card-statement.jpg
+image: adobestock-946684801.jpeg
 image_alt: "Business owner reviewing a credit card statement and receipts at a desk"
 tags: ["tax planning", "business finance", "outsourced accounting"]
 meta_title: "Business Credit Card Rewards Strategy | Accord Advisors"
