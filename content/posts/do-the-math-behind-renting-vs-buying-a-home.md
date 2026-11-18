@@ -4,7 +4,7 @@ slug: do-the-math-behind-renting-vs-buying-a-home
 date: 2026-08-25
 author: "Ryan Deckard"
 excerpt: "Buying a home isn't a gut call, it's a spreadsheet problem. See how to compare real cash flow, taxes, and opportunity cost before you decide to rent or buy."
-image: family-reviewing-finances-at-kitchen-table.jpg
+image: adobestock-139341287.jpeg
 image_alt: "A couple reviewing home buying and renting costs on paper at their kitchen table"
 tags: ["personal finance", "tax planning", "homeownership", "CPA advisory"]
 meta_title: "Buy vs Rent a Home: The Financial Math Explained | Accord Advisors"
