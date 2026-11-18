@@ -15,7 +15,7 @@ canonical_url: https://accordadvisors.com/resources/auto-leasing-vs-buying-which
 schema_markup: "FAQPage"
 answer_block: "Whether leasing or buying a car makes more sense depends on your annual mileage, how long you plan to keep the vehicle, and your business-use percentage for tax purposes. Buying generally wins for high-mileage drivers and business owners who qualify for Section 179 deductions, while leasing suits lower-mileage drivers who want lower payments and newer vehicles every few years."
 ---
-A patient walks into your optometry practice and asks if you're leasing or buying the new visual field analyzer. Nobody asks that question about a car, but they should. Whether you're an optometrist in Bloomington replacing a practice vehicle, a dentist adding a second location and needs reliable transportation between offices, or a self-employed contractor driving to job sites across Monroe County, the lease-versus-buy decision on a vehicle carries the same weight as any other capital purchase. It affects your monthly cash flow, your tax return, and your balance sheet for years.
+A patient walks into your optometry practice and asks if you're leasing or buying the new visual field analyzer. Nobody asks that question about a car, but they should. Whether you're an optometrist replacing a practice vehicle, a dentist adding a second location and needs reliable transportation between offices, or a self-employed contractor driving to job sites across Monroe County, the lease-versus-buy decision on a vehicle carries the same weight as any other capital purchase. It affects your monthly cash flow, your tax return, and your balance sheet for years.
 
 Most car buyers make this decision based on the monthly payment a dealership quotes. That's backward. The payment is the smallest piece of the puzzle. The real answer depends on how many miles you drive, whether the vehicle is used for business, how long you typically keep a car, and what your tax situation looks like this year versus five years from now.
 
@@ -33,7 +33,7 @@ If the vehicle is used for business, purchasing opens a door leasing does not: a
 
 The [IRS Publication 946](https://www.irs.gov/publications/p946) lays out the specific limits, business-use percentage requirements, and how bonus depreciation stacks on top of Section 179 for qualifying vehicles. A dentist buying a used truck to haul equipment between two Bloomington offices, at 80% business use, could see a first-year deduction that meaningfully offsets that year's taxable income. A leased vehicle only lets you deduct the business-use portion of the lease payment itself, spread evenly across the term. There's no acceleration, no lump-sum benefit.
 
-This is where a lot of business owners get bad advice from a salesperson instead of a CPA. A dealership's finance manager isn't calculating your effective tax rate or your Schedule C business-use percentage. Jared Hammack, CPA, works through this exact calculation with optometry and medical practice clients every year, because the right answer depends on your specific taxable income, not a rule of thumb a friend mentioned at dinner.
+This is where a lot of business owners get bad advice from a salesperson instead of a CPA. A dealership's finance manager isn't calculating your effective tax rate or your Schedule C business-use percentage. Accord Advisors works through this calculation with optometry and medical practice clients every year, because the right answer depends on your specific taxable income.
 
 ## Cash flow and driving habits matter more than the sticker price
 
@@ -69,20 +69,14 @@ For a solo dentist or optometrist who bought a first practice vehicle in year tw
 
 Run your own numbers against this table before you sit down with a dealership finance manager. Better yet, run them with a CPA who already knows your business-use percentage and your practice's tax bracket, because that context changes which column wins.
 
-This is the same category of decision covered in our post on [outsourced accounting services for Bloomington practices](/resources/spring-into-smarter-decisions): a monthly payment decision that looks simple but has real tax and cash-flow consequences buried underneath. Optometry and dental practice owners in particular tend to underestimate how much a vehicle decision interacts with their broader [entity structure and tax planning](/industries/optometry).
-
 ## Common Questions
 
-**Is leasing or buying better for tax purposes?**
-Buying generally offers a larger tax benefit for business vehicles because of Section 179 and bonus depreciation, which allow a significant first-year deduction on qualifying vehicles over 6,000 pounds. Leasing only allows you to deduct the business-use percentage of the monthly payment, spread evenly across the lease term, with no acceleration.
+**Is leasing or buying better for tax purposes**?Buying generally offers a larger tax benefit for business vehicles because of Section 179 and bonus depreciation, which allow a significant first-year deduction on qualifying vehicles over 6,000 pounds. Leasing only allows you to deduct the business-use percentage of the monthly payment, spread evenly across the lease term, with no acceleration.
 
-**Can I deduct a leased car for business use?**
-Yes. You can deduct the business-use percentage of your lease payments, along with gas, insurance, and maintenance tied to business use, but you cannot claim Section 179 or bonus depreciation on a leased vehicle since you don't own it.
+**Can I deduct a leased car for business use**?Yes. You can deduct the business-use percentage of your lease payments, along with gas, insurance, and maintenance tied to business use, but you cannot claim Section 179 or bonus depreciation on a leased vehicle since you don't own it.
 
-**Does Section 179 apply to personal vehicles?**
-Section 179 only applies to vehicles used more than 50% for business. A car used mostly for commuting and personal errands, even if occasionally used for work, generally won't qualify for the full deduction. [IRS Publication 946](https://www.irs.gov/publications/p946) outlines the business-use threshold and documentation requirements in detail.
+**Does Section 179 apply to personal vehicles**?Section 179 only applies to vehicles used more than 50% for business. A car used mostly for commuting and personal errands, even if occasionally used for work, generally won't qualify for the full deduction. [IRS Publication 946](https://www.irs.gov/publications/p946) outlines the business-use threshold and documentation requirements in detail.
 
-**How do interest rates affect the lease vs. buy decision?**
-Higher rates raise both loan and lease costs, but they tend to hit loan payments harder since you're financing the full purchase price rather than just the depreciation. Checking current auto loan trends through the [Federal Reserve's G.19 report](https://www.federalreserve.gov/releases/g19/current/) before signing a multi-year agreement is a reasonable step for any business owner financing a vehicle.
+**How do interest rates affect the lease vs. buy decision**?Higher rates raise both loan and lease costs, but they tend to hit loan payments harder since you're financing the full purchase price rather than just the depreciation. Checking current auto loan trends through the [Federal Reserve's G.19 report](https://www.federalreserve.gov/releases/g19/current/) before signing a multi-year agreement is a reasonable step for any business owner financing a vehicle.
 
 If you're weighing a vehicle purchase against your practice's or business's broader tax picture, [contact Accord Advisors](/locations) and talk it through with a CPA before you sign anything. A fifteen-minute conversation now can save thousands over the life of the loan or lease.
