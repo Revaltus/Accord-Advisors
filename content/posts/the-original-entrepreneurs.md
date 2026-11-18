@@ -28,7 +28,7 @@ Bloomington's entrepreneurial story isn't written in venture capital pitch decks
 
 Accord Advisors works alongside these owners every month, not just at tax time. Jared Hammack, CPA, leads a firm built around one idea: business owners deserve financial clarity without the overhead of a full in-house accounting staff. From Bloomington to Indianapolis, that means fixed monthly fees, a secure online platform, and answers that come from someone who already understands the industry.
 
-<!-- block: content-split | variant: image-right | image: bloomington-business-owner-meeting.jpg | alt: "Accountant and local business owner reviewing reports at a table" | query: "accountant meeting small business owner" -->
+<!-- block: content-prose -->
 ## Why local business owners choose a Bloomington accounting partner
 
 National firms and big-box tax chains treat Indiana business owners like a ticket number. Accord Advisors is built differently: a CPA firm rooted in Bloomington and Indianapolis, where Jared Hammack, CPA, and the team know the difference between a dental practice's cash flow cycle and a church's fund accounting requirements.
@@ -37,7 +37,7 @@ Local relationships matter here. When a client calls, they reach someone who alr
 
 That combination, local knowledge paired with predictable pricing and modern tools, is why Bloomington and Indianapolis business owners stay with the firm for years, not just one tax season.
 
-<!-- block: checklist-section | variant: with-image | image: optometry-practice-financial-review.jpg | alt: "Optometrist and accountant reviewing practice financial dashboard together" | query: "optometrist reviewing financial dashboard office" -->
+<!-- block: checklist-section | variant: standalone -->
 ## Supporting optometrists, dentists, and medical professionals
 
 Healthcare and optometry practices carry financial complexity a generic bookkeeper won't catch: insurance reimbursement timing, equipment financing, associate buy-ins, and staffing costs that shift with patient volume. Accord Advisors has worked with healthcare and optometry practices for nearly 40 years, and that history shows up in the questions asked before a problem becomes expensive.
@@ -49,7 +49,7 @@ Practice managers and shareholders need to know how the practice performed each 
 - Support through partner buy-ins, associate transitions, and practice sales
 - Nearly 40 years of industry-specific experience, led by Jared Hammack, CPA
 
-<!-- block: content-split | variant: image-left | image: church-service-business-accounting.jpg | alt: "Church administrator reviewing financial records with an advisor" | query: "church administrator financial meeting" -->
+<!-- block: content-prose -->
 ## Serving Bloomington's service businesses and churches
 
 Service-based businesses, contractors, and church organizations face a different set of foundational questions: how to structure entity ownership, track equipment costs, or manage fund accounting for restricted donations. Accord Advisors builds outsourced accounting and Business Foundation Services around those specific needs, not a generic small business package.
@@ -63,7 +63,7 @@ Hiring a full-time controller, bookkeeper, and CFO costs most Bloomington busine
 
 The goal isn't clean books alone. It's financial data an owner can actually use, delivered on a schedule they can count on, so decisions about hiring, pricing, or expansion rest on real numbers instead of a gut check. Jared Hammack, CPA, and the team function as an extension of the business, present in the monthly rhythm of the practice or company without the overhead of building that department in-house.
 
-<!-- block: checklist-section | variant: with-image-right | image: new-business-foundation-setup.jpg | alt: "New business owner setting up accounting records with an advisor" | query: "entrepreneur startup paperwork consultation" -->
+<!-- block: checklist-section | variant: standalone -->
 ## Building a strong business foundation from day one
 
 New entrepreneurs rarely get a second chance to set up their entity structure, bookkeeping system, and tax plan correctly the first time. Business Foundation Services exist for that moment, before the first year-end surprise turns into a costly one.
@@ -88,7 +88,7 @@ A: Outsourced accounting gives a business bookkeeping, financial reporting, and 
 **Q: What are Business Foundation Services?**
 A: Business Foundation Services cover entity selection, bookkeeping system setup, and tax planning for new businesses. They're designed to get the financial structure right from day one, so it can scale as the business grows or moves toward succession.
 
-<!-- block: cta-banner | variant: image-bg | image: bloomington-entrepreneur-handshake.jpg | alt: "CPA shaking hands with a Bloomington business owner" | query: "business handshake professional agreement" -->
+<!-- block: cta-banner | variant: color-bg -->
 ## Partner with a firm that knows Bloomington entrepreneurs
 
 Bloomington and Indianapolis business owners, medical professionals, and church leaders don't need another vendor. They need a CPA firm that already understands the pressures of running something they built themselves. Accord Advisors brings nearly 40 years of industry experience, fixed monthly fees, and a secure online platform to that relationship.
