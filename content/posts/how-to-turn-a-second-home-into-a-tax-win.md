@@ -4,7 +4,7 @@ slug: how-to-turn-a-second-home-into-a-tax-win
 date: 2026-08-25
 author: "Ryan Deckard"
 excerpt: "How you use your second home, not just how you finance it, determines whether the IRS treats it as a tax-free getaway, a limited deduction, or a full rental business. A Bloomington CPA breaks down the rules."
-image: lake-house-dock-vacation-property.jpg
+image: adobestock-219730431-copy.jpeg
 image_alt: "A lakeside vacation home with a dock, representing a second home weighed for rental versus personal use tax treatment"
 tags: ["Personal Tax", "Real Estate", "Tax Planning"]
 meta_title: "Second Home Tax Rules: A CPA's Guide | Accord Advisors"
