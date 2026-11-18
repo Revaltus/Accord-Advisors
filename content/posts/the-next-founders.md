@@ -26,14 +26,14 @@ Founders in Bloomington are building optometry practices, service businesses, an
 
 Supporting Next Founders is part of how we stay connected to the entrepreneurs building Bloomington's next chapter.
 
-<!-- block: content-split | variant: image-right | image: bloomington-founders-meeting.jpg | alt: "Small business founders talking together at a community networking event" | query: "entrepreneurs networking community event" -->
+<!-- block: content-prose -->
 ## Why we invest in Bloomington entrepreneurs
 
 Accord Advisors is rooted in Bloomington, with a second office serving Indianapolis, and we've built our practice around the idea that founders shouldn't have to choose between growing their business and understanding their numbers. Jared Hammack, CPA, leads a firm that has spent years working with optometry practices, medical professionals, service businesses, and churches across central Indiana.
 
 Early-stage founders carry a specific kind of financial burden: they're doing the accounting themselves, guessing at cash flow, or paying an hourly rate that punishes them for asking questions. We invest time in Bloomington's founder community because removing that burden early is exactly the work we do every day. When a founder gets solid financial footing in year one, everything downstream, hiring, pricing, expansion, gets easier.
 
-<!-- block: checklist-section | variant: with-image-left | image: founder-reviewing-finances.jpg | alt: "Startup founder reviewing financial reports on a laptop at a desk" | query: "entrepreneur reviewing financial documents laptop" -->
+<!-- block: checklist-section | variant: standalone -->
 ## What founders need most in the early stages
 
 Most founders don't need a lecture on accounting principles. They need to know, month to month, whether the business is actually working. In practice, that means:
@@ -74,7 +74,7 @@ A: Yes. While Accord Advisors has deep experience with optometry practices and m
 **Q: What financial mistakes do early-stage founders commonly make?**
 A: Common mistakes include mixing personal and business finances, lacking monthly financial visibility, and delaying entity or tax structure decisions. Accord Advisors helps founders address these early through Business Foundation Services before they become costly to fix later.
 
-<!-- block: cta-banner | variant: image-bg | image: founder-handshake-meeting.jpg | alt: "Two business professionals shaking hands after a consultation meeting" | query: "business handshake consultation meeting" -->
+<!-- block: cta-banner | variant: color-bg -->
 ## Get connected with the Bloomington founder community
 
 If you're building a company in Bloomington, the Next Founders program is a good place to start meeting other entrepreneurs, and Accord Advisors is a familiar face there. But you don't have to wait for a gathering to get your financial foundation in order. Whether you're six months in or just filed your paperwork, a short conversation now can save you a costly correction later.
