@@ -18,9 +18,10 @@ image: accord-advisors-feature-2026-08-1-6-965.png
 ---
 
 <!-- block: intro-text | variant: centered -->
-## Why labor shortages are pushing employers toward upskilling
 
 *By Accord Advisors— Accounting, tax and advisory firm in Indiana, serving clients in Bloomington, Avon, the Greater Indianapolis area and nationwide.*
+
+## Why labor shortages are pushing employers toward upskilling
 
 Finding qualified staff in Bloomington and across the Indianapolis area has gotten harder, not easier. Optometry practices need trained technicians who can run new diagnostic equipment. Dental offices need hygienists and front-desk staff who understand insurance billing. Medical practices, service businesses, and churches are all competing for the same shrinking pool of skilled workers.
 
