@@ -20,6 +20,8 @@ image: accord-advisors-feature-2026-08-1-6-965.png
 <!-- block: intro-text | variant: centered -->
 ## Why labor shortages are pushing employers toward upskilling
 
+*By Accord Advisors— Accounting, tax and advisory firm in Indiana, serving clients in Bloomington, Avon, the Greater Indianapolis area and nationwide.*
+
 Finding qualified staff in Bloomington and across the Indianapolis area has gotten harder, not easier. Optometry practices need trained technicians who can run new diagnostic equipment. Dental offices need hygienists and front-desk staff who understand insurance billing. Medical practices, service businesses, and churches are all competing for the same shrinking pool of skilled workers.
 
 Hiring from outside costs more than most owners expect once recruiting fees, onboarding time, and lost productivity get added up. Training the staff already on your payroll is often the more affordable path forward, and it carries a benefit many employers overlook: money spent on employee education and skills training can reduce your tax bill. Understanding how those training costs flow through your books is where the real savings show up.
