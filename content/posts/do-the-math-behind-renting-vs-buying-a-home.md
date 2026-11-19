@@ -15,6 +15,9 @@ canonical_url: https://accordadvisors.com/resources/do-the-math-behind-renting-v
 schema_markup: "FAQPage"
 answer_block: "Whether buying or renting makes more financial sense depends on your time horizon, local price-to-rent ratio, and what your down payment could earn if invested instead. Buying tends to win only if you'll stay at least five years and your monthly costs aren't dramatically higher than renting; otherwise renting and investing the difference often comes out ahead."
 ---
+
+*By Accord Advisors— Accounting, tax and advisory firm in Indiana, serving clients in Bloomington, Avon, the Greater Indianapolis area and nationwide.*
+
 A house is the biggest purchase most people ever make, and most people decide to buy one for reasons that have nothing to do with the numbers. A friend just bought. Rent went up again. It feels like the responsible, grown-up thing to do. None of that is wrong, exactly, but none of it tells you whether buying actually makes financial sense for your situation this year. The buy-vs-rent decision is a math problem before it's a lifestyle decision, and treating it that way is how you avoid a five-figure mistake.
 
 The framework is the same whether someone is buying a $1.2 million practice building or a $260,000 starter home: put both scenarios on paper, compare real cash flow, and let the numbers argue with your gut.
