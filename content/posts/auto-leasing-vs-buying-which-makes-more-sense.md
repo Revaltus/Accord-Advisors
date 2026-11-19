@@ -15,6 +15,9 @@ canonical_url: https://accordadvisors.com/resources/auto-leasing-vs-buying-which
 schema_markup: "FAQPage"
 answer_block: "Whether leasing or buying a car makes more sense depends on your annual mileage, how long you plan to keep the vehicle, and your business-use percentage for tax purposes. Buying generally wins for high-mileage drivers and business owners who qualify for Section 179 deductions, while leasing suits lower-mileage drivers who want lower payments and newer vehicles every few years."
 ---
+
+*By Accord Advisors— Accounting, tax and advisory firm in Indiana, serving clients in Bloomington, Avon, the Greater Indianapolis area and nationwide.*
+
 A patient walks into your optometry practice and asks if you're leasing or buying the new visual field analyzer. Nobody asks that question about a car, but they should. Whether you're an optometrist replacing a practice vehicle, a dentist adding a second location and needs reliable transportation between offices, or a self-employed contractor driving to job sites across Monroe County, the lease-versus-buy decision on a vehicle carries the same weight as any other capital purchase. It affects your monthly cash flow, your tax return, and your balance sheet for years.
 
 Most car buyers make this decision based on the monthly payment a dealership quotes. That's backward. The payment is the smallest piece of the puzzle. The real answer depends on how many miles you drive, whether the vehicle is used for business, how long you typically keep a car, and what your tax situation looks like this year versus five years from now.

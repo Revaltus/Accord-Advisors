@@ -20,6 +20,8 @@ image: accord-advisors-feature-2026-08-1-5-864.png
 <!-- block: content-prose -->
 ## Why traditional budgets break down when prices keep rising
 
+*By Accord Advisors— Accounting, tax and advisory firm in Indiana, serving clients in Bloomington, Avon, the Greater Indianapolis area and nationwide.*
+
 Most budgets start with last year's numbers and add a percentage for inflation. That worked fine when prices moved two percent a year. It stops working when a bag of exam-room supplies costs 18% more than it did last year, or when a hygienist's starting wage has climbed four dollars an hour since your last budget cycle.
 
 Practice owners and service business owners are finding that last year's budget, adjusted upward, no longer reflects what things actually cost today. Rent renewals, payroll, insurance premiums, and vendor contracts have all moved independently of each other, and a flat percentage bump doesn't capture any of it.

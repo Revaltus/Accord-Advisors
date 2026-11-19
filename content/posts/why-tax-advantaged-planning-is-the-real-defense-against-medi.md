@@ -15,6 +15,9 @@ canonical_url: https://accordadvisors.com/resources/why-tax-advantaged-planning-
 schema_markup: "FAQPage"
 answer_block: "Planning for unexpected medical expenses means combining a cash emergency fund with tax-advantaged tools: max out HSA contributions if you're on a high-deductible plan, track expenses against the 7.5% AGI deduction threshold, and use an FSA for predictable costs. Together these reduce both the immediate cash hit and the tax bill tied to a medical crisis."
 ---
+
+*By Accord Advisors— Accounting, tax and advisory firm in Indiana, serving clients in Bloomington, Avon, the Greater Indianapolis area and nationwide.*
+
 A surprise diagnosis or a trip to the ER doesn't just cost money in the moment. It can reshape a family's finances for years, because most people respond to a medical bill the same way they'd respond to a leaky faucet: patch it, pay it down, move on. That approach misses the tools that actually blunt the damage. The Federal Reserve's [Report on the Economic Well-Being of U.S. Households](https://www.federalreserve.gov/publications/report-economic-well-being-us-households.htm) has repeatedly found that a large share of adults couldn't cover a $400 emergency expense with cash on hand, and medical bills are one of the most common reasons people fall behind. An emergency fund helps you survive the first bill. Tax-advantaged planning is what keeps the second and third bill from turning into years of debt.
 
 This is the piece most personal finance advice skips. Build a cushion, they say, and you'll be fine. But a cushion is passive money sitting in a savings account, taxed on any interest it earns, with no strategy behind how it's spent. HSAs, itemized medical deductions, and flexible spending accounts are active tools. Used correctly, they lower what you owe the IRS while you're paying for care, not just after the fact.

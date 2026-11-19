@@ -15,6 +15,9 @@ canonical_url: https://accordadvisors.com/resources/business-credit-card-rewards
 schema_markup: "FAQPage"
 answer_block: "Business credit card rewards earned through normal purchases are generally treated as a rebate, not taxable income, but the real value comes from matching a card's rewards structure to your actual spending categories and reconciling redemptions cleanly in your books. Choosing based on annual spend data, rather than sign-up bonuses, is what turns a card into a genuine financial strategy."
 ---
+
+*By Accord Advisors— Accounting, tax and advisory firm in Indiana, serving clients in Bloomington, Avon, the Greater Indianapolis area and nationwide.*
+
 A business credit card can quietly become one of the more useful line items on your balance sheet, or one of the more confusing ones. Optometry practices, dental offices, service businesses, and even churches running a facilities card all face the same basic question: is this piece of plastic actually saving money, or just generating points nobody tracks? The answer depends less on which card has the flashiest sign-up bonus and more on whether the card's structure matches how the business actually spends money each month.
 
 At Accord Advisors, we work with clients that spend anywhere from $3,000 to $60,000 a month on supplies, lab fees, staffing platforms, and marketing. A card chosen for the wrong reason, say, a splashy travel bonus for a practice that never travels, leaves real money on the table. A card chosen deliberately can offset a meaningful chunk of annual overhead. This is a cash-flow decision as much as a rewards decision, and it deserves the same scrutiny you'd give a lease or a loan.

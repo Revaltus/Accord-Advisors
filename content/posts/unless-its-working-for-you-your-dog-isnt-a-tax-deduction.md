@@ -15,6 +15,9 @@ canonical_url: https://accordadvisors.com/resources/unless-its-working-for-you-y
 schema_markup: "FAQPage"
 answer_block: "Most dog-related expenses are personal and not deductible, but the IRS allows exceptions for trained service or guide dogs (deductible as medical expenses under Publication 502) and for dogs with a documented business function, like guard dogs or breeding kennels (deductible as business expenses under Publication 535)."
 ---
+
+*By Accord Advisors— Accounting, tax and advisory firm in Indiana, serving clients in Bloomington, Avon, the Greater Indianapolis area and nationwide.*
+
 Can you write off your golden retriever's grooming bills because the dog "greets patients" in your optometry practice's waiting room? Every tax season, business owners ask some version of the same question: can I deduct my dog? The honest answer is almost always no, but the narrow exceptions are real, specific, and worth understanding if your dog actually does a job for your business or your health.
 
 This isn't a loophole hunt. It's about knowing where the IRS draws a real line between a beloved pet and a working animal with a documented business or medical function.

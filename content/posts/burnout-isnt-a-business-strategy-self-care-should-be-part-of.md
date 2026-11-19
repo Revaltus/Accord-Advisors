@@ -15,6 +15,9 @@ canonical_url: https://accordadvisors.com/resources/burnout-isnt-a-business-stra
 schema_markup: "FAQPage"
 answer_block: "Self-care for business owners is a financial safeguard, not an indulgence, because exhaustion causes decision fatigue that leads to costly mistakes like missed deadlines, bad hires, and unread contracts. Building rest and delegation into the business structure, including outsourced accounting for routine financial tasks, protects the owner's judgment and the company's profitability."
 ---
+
+*By Accord Advisors— Accounting, tax and advisory firm in Indiana, serving clients in Bloomington, Avon, the Greater Indianapolis area and nationwide.*
+
 Imagine an optometrist who opens the practice at 7:30 a.m., sees patients until 5, then stays until 9 p.m. reconciling insurance claims herself because she didn't trust anyone else to get it right. Eighteen months in, she misses a lease renewal deadline that costs her practice an extra $14,000 a year in rent she didn't negotiate away. She wasn't careless. She was exhausted. That distinction matters, because the financial damage looked identical either way.
 
 Business owners tend to treat rest as something you earn after the business succeeds, not something that makes success possible. The pattern is consistent: the owners who run themselves into the ground don't just get sick or tired. They make worse financial decisions, and those decisions show up on the balance sheet.

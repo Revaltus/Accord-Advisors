@@ -15,6 +15,9 @@ canonical_url: https://accordadvisors.com/resources/how-to-turn-a-second-home-in
 schema_markup: "FAQPage"
 answer_block: "A second home's tax treatment depends on rental days versus personal-use days: rent it 14 days or fewer and the income is tax-free with no rental deductions; rent it more and personal use above 14 days (or 10% of rental days) limits your loss deductions, while lighter personal use lets you treat it as a full rental with depreciation and expense deductions."
 ---
+
+*By Accord Advisors— Accounting, tax and advisory firm in Indiana, serving clients in Bloomington, Avon, the Greater Indianapolis area and nationwide.*
+
 A cabin at Lake Monroe or a condo near the Gulf Coast can be more than a place to unwind. Depending on how many days you use it yourself and how many days you rent it out, the IRS will slot that property into one of three very different tax categories, and each one comes with its own rules for deductions, depreciation, and reported income. Buy first and figure out the tax treatment later, and you can end up losing deductions you didn't know you were entitled to, or worse, owing tax on income you thought was tax-free.
 
 The good news: the rules are not vague. IRS Publication 527 and Tax Topic 415 lay out a bright-line test based on personal-use days versus rental days, and once you know which side of that line your property falls on, planning around it is straightforward.

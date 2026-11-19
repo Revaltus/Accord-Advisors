@@ -15,6 +15,9 @@ canonical_url: https://accordadvisors.com/resources/long-term-care-how-you-can-f
 schema_markup: "FAQPage"
 answer_block: "Long-term care planning means funding future nursing home, assisted living, or in-home care costs years in advance through a mix of long-term care insurance, VA Aid and Attendance benefits for eligible veterans, and dedicated personal savings, rather than reacting after a health crisis when options like insurance underwriting are no longer available."
 ---
+
+*By Accord Advisors— Accounting, tax and advisory firm in Indiana, serving clients in Bloomington, Avon, the Greater Indianapolis area and nationwide.*
+
 A knee replacement is manageable. A stroke that leaves someone unable to dress or bathe without help is a different problem entirely, and it's the one most families never plan for. Genworth's Cost of Care data has long shown nursing home care running well above $90,000 a year nationally, and Indiana isn't far behind that number for a private room. Medicare doesn't cover it. Health insurance doesn't cover it. That leaves three real options: insurance, veterans benefits, and your own savings, used in some combination decided years before anyone needs a wheelchair ramp.
 
 This is a financial-risk decision, not an emotional one, even though it feels like both. The families who handle it well are the ones who treat long-term care the way they treat disability insurance or a business succession plan: fund it early, review it regularly, and don't wait for a diagnosis to start the conversation.
