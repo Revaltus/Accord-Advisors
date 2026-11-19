@@ -15,6 +15,9 @@ canonical_url: https://accordadvisors.com/resources/strategically-balancing-your
 schema_markup: "FAQPage"
 answer_block: "A balanced investment portfolio requires periodic rebalancing because market movement causes asset allocations to drift from their targets even without new trades. Rebalancing on a calendar or threshold basis, coordinated with tax planning around capital gains, keeps risk levels aligned with your actual goals and tax situation."
 ---
+
+*By Accord Advisors— Accounting, tax and advisory firm in Indiana, serving clients in Bloomington, Avon, the Greater Indianapolis area and nationwide.*
+
 Let's say a client walked into our Bloomington office holding a portfolio statement he hadn't opened in three years. He'd built it right after selling part of his optometry practice: 70% stocks, 30% bonds, diversified across a dozen funds. Smart allocation at the time. By the time he finally looked, tech gains had pushed him to 85% stocks with almost no bond cushion left. He wasn't more aggressive by choice. He was more aggressive by neglect, and he didn't find out until a market pullback cost him more than it should have.
 
 That's the problem with "set it and forget it." Nobody decides to abandon their strategy. The market decides for them, one unmonitored quarter at a time.
